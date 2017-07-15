@@ -11,8 +11,11 @@ if (shExpMatch(url, "*.twitter.com/*|"))
 
 if (shExpMatch(host, "*.google.com*"))
         return "DIRECT";
+
+if (shExpMatch(host, "98.194.166.249"))
+        return "DIRECT";
  
 // DEFAULT RULE: All other traffic, use below proxies, in fail-over order.
-    return "SOCKS5 10.0.0.20:9100; SOCKS5 127.0.0.1:9050; SOCKS4 10.0.0.20:9100; SOCKS5 127.0.0.1:9050";
+    return "SOCKS5 98.194.166.249:9300; SOCKS5 98.194.166.249:9100; SOCKS4 98.194.166.249:9100; SOCKS5 98.194.166.249:9100";
 
 }
