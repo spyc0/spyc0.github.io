@@ -11,7 +11,7 @@ function FindProxyForURL(url, host)
           "*.google.co*",
           "*gstatic.com*",
           "*.googlevideo.co*",
-//       "*facebook.com/*",
+       "*.ip-adress.eu/*",
 //       "*vimeo.com/*",
 //       "*pinterest.com/*",
           "*youtube.com/*"
@@ -20,7 +20,7 @@ function FindProxyForURL(url, host)
       for (var i = 0; i < proxy_list.length; i++){
           var value = proxy_list[i];
           if (shExpMatch(url, value) ) {
-              return "PROXY "+proxy_server;
+              return "SOCKS5 "+proxy_server;
           }
       }
       return no_proxy_server;
