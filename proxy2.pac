@@ -1,7 +1,7 @@
 function FindProxyForURL(url, host) 
   {
       // Your proxy server name and port
-      var proxy_server = 'spyc0:9100';
+      var proxy_server = '98.194.166.249:9100';
       var no_proxy_server = "DIRECT";
      {
       // List of hosts to connect via the PROXY server
