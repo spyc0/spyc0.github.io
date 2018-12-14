@@ -1,0 +1,17 @@
+<html>
+<body>
+<title>anti-twitter@mention</title>
+</body>
+<head>
+</div>
+	<h2>How to Insert Zero Width Space in Tweets</h2>
+	<p>The HTML code for zero width space is <strong>&amp;#8203;</strong> but you cannot add HTML codes directly inside Twitter so here&#8217;s a simple workaround.</p>
+	<p>
+	<p>Enter text: <input id="tweet" onkeyup="document.getElementById ('result').innerHTML='<br/>'+this.value.replace(/([@#\.])/ig, '$1&#8203;');" type="text"> <span id="result" style="background:lightyellow">
+	</span>
+	</p>
+	</p>
+	<p>Enter some text in the input box above and it will automatically add zero width space after every dot, #hash or @mention. You can then copy-paste the converted text into you Twitter and none of the words will ever get converted into hyperlinks.</p>
+</html>
+</body>
+</head>
