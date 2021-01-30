@@ -1,0 +1,2633 @@
+! 5/10/2020 https://www.netflix.com
+www.netflix.com###patreon-container
+www.netflix.com###patreon-link
+www.netflix.com###patreon-container
+! 5/13/2020 https://community.spiceworks.com
+community.spiceworks.com##.join-alt-modal--six-second.sui-modal_content—overflow.sui-modal_content.join-login-container_modal.join-login-container
+community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
+! 5/13/2020 https://www.bruceclay.com
+www.bruceclay.com##.header-container
+www.bruceclay.com##[href="/traffic"]
+! 5/13/2020 https://www.lastpass.com
+www.lastpass.com##.lp-popup.lp-pg-popup
+! 5/13/2020 https://www.thecinemaholic.com
+www.thecinemaholic.com###header
+www.thecinemaholic.com###footer
+www.thecinemaholic.com##.gridlove-related
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.footer-title
+www.pornhub.com##.footer
+www.pornhub.com##.js_dropdownBound.languageWrapper
+www.pornhub.com###RTAImage
+www.pornhub.com##.rta
+www.pornhub.com##[href="/information#rating"]
+www.pornhub.com##.logoFooterWrapper
+www.pornhub.com##.fanClubBox.contentContainer
+www.pornhub.com##.translateFix.spriteProfileIcons.blockAndReport.sectionWrapper
+www.pornhub.com##.hd-thumbnail
+www.pornhub.com##.abovePlayer
+www.pornhub.com##.abAlertInner
+www.pornhub.com###abAlert
+! 5/13/2020 https://ip8.com
+ip8.com###fc_widget
+ip8.com##.navbar-brand
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.alpha.dropdownTrigger.notificationIcon
+www.pornhub.com###notificationIcons
+! 5/13/2020 https://jp.spankbang.com
+||*.sb-cd.com/*/*/RTA.png$image
+jp.spankbang.com##footer
+jp.spankbang.com##.footer_bbm
+! 5/13/2020 https://m.spankbang.com
+##.tab_comments
+m.spankbang.com##[href^="/category/toy/"]
+m.spankbang.com###categories > [href^="/category/squirt/"]
+m.spankbang.com##.iZymxx.BlackLabelFooter__FooterContainer-sc-2qn5y4-0
+! 5/13/2020 https://chaturbate.com
+##[href="/male-cams/"]
+##.logo-zone
+##[href="/trans-cams/"]
+##[href="/tag/pregnant/f/"]
+##[href="/tag/pantyhose/f/"]
+##[href="/tag/feet/f/"]
+##[href="/tag/squirt/f/"]
+##[href="/tag/mature/f/"]
+chaturbate.com###footer-holder
+chaturbate.com##[href="/tipping/free_tokens/"]
+chaturbate.com###qu > [href="#"]
+chaturbate.com##.clearfix.section
+chaturbate.com##li:nth-of-type(5) > .cf_div_theme_dark
+chaturbate.com##[href^="/accounts/register/"]
+||public.chaturbate.com/uploads/avatar/*/*/*/*.*$image
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(4)
+chaturbate.com###qu > div:nth-of-type(5)
+chaturbate.com###qu > span
+chaturbate.com##div.tag_row:nth-of-type(30)
+chaturbate.com##div.tag_row:nth-of-type(29)
+chaturbate.com##[href="/andreja_pejic/"]
+||ssl-ccstatic.highwebmedia.com//images/logo.*
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/cam_notice_background.jpg
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##[href^="/category/cam/"]
+jp.spankbang.com##[href^="/category/gay/"]
+jp.spankbang.com##[href^="/category/fisting/"] > span > font > font
+jp.spankbang.com##[href^="/category/fisting/"]
+jp.spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+spankbang.com##[href^="/category/cam/"]
+spankbang.com##[href^="/category/gay/"]
+spankbang.com##[href^="/category/fisting/"] > span > font > font
+spankbang.com##[href^="/category/fisting/"]
+spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+##[href^="/category/cam/"]
+##[href^="/category/gay/"]
+##[href^="/category/fisting/"] > span > font > font
+##[href^="/category/fisting/"]
+##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://jp.spankbang.com
+*spankbang.com##[href^="/category/cam/"]
+*spankbang.com##[href^="/category/gay/"]
+*spankbang.com##[href^="/category/fisting/"]
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+||assets.sb-cd.com/static_mobile/Images/logo_mobile_v4@2x.png$image
+||www.gravatar.com/avatar/*$image
+||platform.twitter.com/widgets/*.html$subdocument
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##[href="/live/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##.categories > [href^="/category/bondage/"]
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##[href^="/category/shemale/"]
+m.spankbang.com##[href^="/category/hentai/"]
+m.spankbang.com##[href^="/category/fetish/"]
+m.spankbang.com###categories > [href^="/category/bondage/"]
+m.spankbang.com##[href^="/category/big+dick/"]
+m.spankbang.com##[href^="/category/anal/"]
+m.spankbang.com##[href^="/category/bbw/"] > .cover
+m.spankbang.com##[href^="/category/bbw/"]
+m.spankbang.com##[href^="/category/hardcore/"]
+m.spankbang.com##.twitter-follow-button
+m.spankbang.com##a.k:nth-of-type(36)
+m.spankbang.com##.upload
+m.spankbang.com##.tabs > .cf_div_theme_dark
+m.spankbang.com##.tabs
+m.spankbang.com##.fl
+m.spankbang.com##.vjs-loading-spinner
+m.spankbang.com##.tabs > .cf_div_theme_dark.clutterFree_noIcon.clutterFree_existingDuplicate
+m.spankbang.com##.tabs
+m.spankbang.com##.i_flag.i_svg
+m.spankbang.com##.tab_similar > h2
+m.spankbang.com##.fl
+m.spankbang.com##.more_menu > .badge
+m.spankbang.com##.tab_comments
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="https://cbswag.com"]
+chaturbate.com##[href="/tag/hairy/c/"]
+chaturbate.com##[href="/tag/pregnant/couple/"]
+chaturbate.com##[href="/tag/bdsm/couple/"]
+chaturbate.com##.tag > [href="/tag/squirt/couple/"]
+chaturbate.com##[href="/tag/bbw/couple/"]
+chaturbate.com##[href="/tag/milk/couple/"]
+chaturbate.com##[href="/tag/mature/couple/"]
+chaturbate.com##.tag > [href="/tag/feet/couple/"]
+chaturbate.com##[href="/tag/slave/couple/"]
+chaturbate.com##[href="/tag/pantyhose/couple/"]
+chaturbate.com##[href="/tag/mistress/couple/"]
+chaturbate.com##[href="/tag/smoke/couple/"]
+chaturbate.com##[href="/tag/strapon/couple/"]
+chaturbate.com##[href="/tag/femdom/couple/"]
+chaturbate.com##[href="/tag/bigclit/couple/"]
+chaturbate.com##[href="/tag/fuckmachine/couple/"]
+chaturbate.com##[href="/tag/fetish/couple/"]
+chaturbate.com##[href="/tag/heels/couple/"]
+chaturbate.com##[href="/tag/humiliation/couple/"]
+chaturbate.com##[href="/tag/submissive/couple/"]
+chaturbate.com##[href="/tag/pegging/couple/"]
+chaturbate.com##[href="/tag/domi/couple/"]
+chaturbate.com##[href="/tags/trans/"]
+chaturbate.com##[href="/tags/male/"]
+! 5/14/2020 chaturbate.com
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/sounds/*$domain=chaturbate.com
+! 5/14/2020 https://chaturbate.com
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/logo.svg$image
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(1)
+chaturbate.com##[src="https://camo.stream.highwebmedia.com/77a82cc70562bd988fc7fa411d9b4d01c66557c5/687474703a2f2f696d616765732e646d63612e636f6d2f4261646765732f646d63615f70726f7465637465645f736d6c5f3132306c2e706e67"]
+chaturbate.com##[href="/my_collection/photo_videos/"]
+chaturbate.com##[href="/my_collection/private_shows/"]
+chaturbate.com##.sub-nav
+! 5/14/2020 https://www.xvideos.com
+www.xvideos.com##.thumb-inside > .video-hd-mark
+www.xvideos.com##.thumb-inside > .video-sd-mark
+www.xvideos.com###nav-trends > .mobile-hide
+! 5/14/2020 https://info.xvideos.com
+info.xvideos.com###section-shortcuts > ul > li:nth-of-type(4)
+info.xvideos.com###section-support > ul > li:nth-of-type(2)
+info.xvideos.com###section-support
+info.xvideos.com###footer
+info.xvideos.com###section-legal_stuff > ul
+info.xvideos.com###section-legal_stuff > .title
+info.xvideos.com###section-external_links > ul
+info.xvideos.com###section-external_links > .title
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pregnant/"]
+chaturbate.com##.thumbnail_label_exhibitionist.thumbnail_label
+chaturbate.com##.thumbnail_label_c.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd_plus.thumbnail_label
+chaturbate.com##.thumbnail_label_c_new.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd.thumbnail_label
+||ssl-ccstatic.highwebmedia.com/images/bg-body.gif$image
+chaturbate.com##div:nth-of-type(6) > [href="/spy-on-cams/"]
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/gender_tab_bg.gif$image
+chaturbate.com###Sp > div:nth-of-type(1)
+chaturbate.com###bt > div:nth-of-type(2)
+chaturbate.com###Lw > div:nth-of-type(2)
+chaturbate.com##[href="https://www.surveymonkey.com/r/6NS9RJ5"]
+chaturbate.com###Au > div:nth-of-type(5) > span
+chaturbate.com##.tip_shell
+chaturbate.com##.headline > .buttons > li:nth-of-type(4) > .nooverlay
+chaturbate.com##li:nth-of-type(3) > .nooverlay
+chaturbate.com##.headline > .buttons > li:nth-of-type(2) > .nooverlay
+chaturbate.com##.headline > .buttons > .active > .nooverlay
+chaturbate.com##.bio
+chaturbate.com###model_rating_ctrl_dim
+chaturbate.com###report_popup_link
+chaturbate.com##.video-box > .title
+chaturbate.com###user-list
+chaturbate.com###send-tip
+chaturbate.com###Nu > span:nth-of-type(9)
+chaturbate.com###chat-btn
+chaturbate.com###more-rooms
+chaturbate.com##span > p:nth-of-type(1)
+chaturbate.com###Lw > div:nth-of-type(3)
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com##.sectionWrapper > .sectionWrapper
+www.pornhub.com##.footerContentWrapper
+www.pornhub.com###headerUpgradePremiumBtn
+www.pornhub.com###under-player-comments
+www.pornhub.com###menuItem4
+www.pornhub.com###menuItem6
+www.pornhub.com###menuItem7
+www.pornhub.com###menuItem5
+www.pornhub.com###p2vVideosVPage
+www.pornhub.com###v163943421 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com###v215477231 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+||ci.phncdn.com/www-static/images/pornhub_logo_straight.png$image
+www.pornhub.com##.fakeClick
+||ci.phncdn.com/www-static/images/sprite-icons.png?cache=2020051303$image
+www.pornhub.com###searchTypeSelected > .video
+! 5/14/2020 tube8.com
+@@||ei3.t8cdn.com/videos/201711/14/141136622/original/*$image,domain=www.tube8.com
+! 5/14/2020 https://www.tube8.com
+www.tube8.com##.footer-stripe-wrapper-grey
+www.tube8.com###footer-content
+www.tube8.com###footer-text
+www.tube8.com###allComments
+www.tube8.com###top-getvip
+www.tube8.com###networkbar
+www.tube8.com###PornhubNetworkBar
+www.tube8.com##.lang-switch > a
+www.tube8.com##.lang-switch
+www.tube8.com###language-nav
+www.tube8.com##.orientation-switch
+www.tube8.com###orientation-nav
+||es.t8cdn.com/images/header_logo/PC.png$image
+www.tube8.com##.relative.logo-box
+www.tube8.com###top-upload
+www.tube8.com###btn_report > .icon-flag
+www.tube8.com###embedButton
+www.tube8.com##.underplayerBanner
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com###js-networkBar
+||di.phncdn.com/www-static/images/pornhub_logo_straight.png$image
+www.pornhub.com###js-toggleArrow
+www.pornhub.com###searchTypeSelected
+! 5/14/2020 https://chaturbate.com
+chaturbate.com###Xw
+chaturbate.com###Hp
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(2)
+! 5/18/2020 https://twitter.com
+twitter.com###banners
+twitter.com##.Banner--aboveNav.Banner
+! 5/19/2020 https://hangouts.google.com
+hangouts.google.com##.g-Ue-ad
+hangouts.google.com##.g-Ue-T-R > div
+! 5/19/2020 https://twitter.com
+twitter.com###tmf-settings
+twitter.com##div.fadeInRight.animated.tmf-ad:nth-of-type(1)
+twitter.com##.tmf-ads
+twitter.com##.modal-overlay
+twitter.com###tmf.tmf--show.tmf
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com###site-settings > .flag-us.flag-small
+www.xvideos.com##.flag-us.flag-small
+||*.xvideos-cdn.com/*/*/*/flags/*/*.png
+! 09/08/2020 https://www.xvideos.com
+||static-l3.xvideos-cdn.com/v3/img/player/icon-chromecast.svg$image
+www.xvideos.com##.big-buttons-sub
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4)
+chaturbate.com##span > div > table
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > [href="#"]
+chaturbate.com##a[href="#"]:nth-of-type(5)
+||public.chaturbate.com/uploads/appimage/2018/*/*/*/*/*$image
+chaturbate.com##span > div > div > span:nth-of-type(2)
+chaturbate.com##span > div > div > span:nth-of-type(3)
+chaturbate.com##span > div
+chaturbate.com###hashtag_ticker > [href="/tag/feet/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pantyhose/"]
+chaturbate.com##[href="/tag/bdsm/"]
+chaturbate.com##[href="/tag/mistress/"]
+chaturbate.com###hashtag_ticker > [href="/tag/mature/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milf/"]
+chaturbate.com###hashtag_ticker > [href="/tag/hairy/"]
+chaturbate.com##[href="/tag/bbw/"]
+chaturbate.com###hashtag_ticker > [href="/tag/anal/"]
+chaturbate.com###hashtag_ticker > [href="/tag/squirt/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milk/"]
+chaturbate.com##[href="/tag/lesbian/"]
+chaturbate.com###hashtag_ticker > [href="/tag/bigcock/"]
+chaturbate.com###hashtag_ticker > [href="/tag/fuckmachine/"]
+! 2020-09-08 https://dicksucking.chaturbate.com
+dicksucking.chaturbate.com##[href="/tag/feet/c/"]
+dicksucking.chaturbate.com##[href="/tag/mistress/c/"]
+dicksucking.chaturbate.com##[href="/tag/milf/c/"]
+dicksucking.chaturbate.com##[href="/tag/anal/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbw/c/"]
+dicksucking.chaturbate.com##[href="/tag/squirt/c/"]
+dicksucking.chaturbate.com##[href="/tag/pregnant/c/"]
+dicksucking.chaturbate.com##[href="/tag/new/c/"]
+dicksucking.chaturbate.com##[href="/tag/bdsm/c/"]
+dicksucking.chaturbate.com##[href="/tag/pantyhose/c/"]
+dicksucking.chaturbate.com##[href="/tag/slave/c/"] 
+dicksucking.chaturbate.com##[href="/tag/strapon/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbc/c/"]
+dicksucking.chaturbate.com##[href="/tag/bigcock/c/"]
+dicksucking.chaturbate.com##[href="/tag/smoke/c/"]
+dicksucking.chaturbate.com##[href="/tag/daddy/c/"]
+dicksucking.chaturbate.com##[href="/tag/milk/c/"]
+dicksucking.chaturbate.com##[href="/tag/cum/c/"]
+dicksucking.chaturbate.com##[href="/tag/hairyarmpits/c/"]
+! 2020-09-08 https://adlock.com
+||adlock.com/wp-content/uploads/2020/09/Mask-Group-6-1.png$image
+adlock.com##.banner_N
+adlock.com###banner_full
+! 2020-09-08 https://mega.nz
+mega.nz##.fm-dialog-overlay
+mega.nz##.achievements.registered.limited-bandwidth-dialog.fm-dialog > .centered-content.fm-dialog-body
+||na.static.mega.co.nz/3/images/mega/grid-bg.svg$image
+mega.nz##.ui-selectable.megaList.megaListContainer.grid-scrolling-table
+trusted-browser.com
+! 2020-09-08 https://meyerweb.com
+meyerweb.com##h1
+meyerweb.com###footer
+meyerweb.com##ul
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##[href="/tag/bdsm/c/"]
+chaturbate.com##[href="/tag/milk/c/"]
+chaturbate.com##[href="/tag/feet/c/"]
+chaturbate.com##[href="/tag/squirt/c/"]
+chaturbate.com##[href="/tag/mistress/c/"]
+chaturbate.com##[href="/tag/bbw/c/"]
+chaturbate.com##[href="/tag/ebony/c/"]
+chaturbate.com##[href="/tag/anal/c/"]
+chaturbate.com##[href="/tag/slave/c/"]
+chaturbate.com##[href="/tag/strapon/c/"]
+chaturbate.com###main > div > div:nth-of-type(6) > span
+chaturbate.com###main > div > div:nth-of-type(6) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(5) > span
+||camo.stream.highwebmedia.com/*/*$image
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > span
+chaturbate.com##[href="/tag/chubby/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/daddy/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/slave/"]
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4) > div > div
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > a[href="#"]:nth-of-type(3)
+chaturbate.com##span:nth-of-type(2) > [href="/fanclub/join/honey_devildoll/"]
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##[href="/b/raepurbutt/"]
+chaturbate.com##div:nth-of-type(5) > [href="#"]
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.noselect.videoad-title-invideo.videoad-title
+www.xvideos.com###mobile-login-btn
+! 2020-09-08 https://duncantrussell.merchtable.com
+duncantrussell.merchtable.com###launcher-frame
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.verified.icf-check-circle.icon-f
+! 2020-12-10 https://hide.me
+hide.me##.livechat__label
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##div.js-livechatMain.livechat:nth-of-type(2)
+hide.me##.js-livechat.u-cursorpointer.livechat__bubble
+hide.me##div.js-livechatMain.livechat:nth-of-type(1)
+! 2021-01-30 https://www.3dnatives.com
+||www.3dnatives.com/en/wp-content/uploads/sites/2/IGO3D_Banner3DDNatives_400x330px_Englisch_20200609.gif$image,domain=www.3dnatives.com
+||www.3dnatives.com/wp-content/themes/3dnatives/msls_flags/*.png$image,domain=www.3dnatives.com
+||www.3dnatives.com/en/wp-content/uploads/sites/2/2020/06/TypeB.gif$image,domain=www.3dnatives.com
+||www.3dnatives.com/en/wp-includes/js/comment-reply.min.js$domain=www.3dnatives.com
+! 2021-01-30 https://xmovies8.pw
+||xmovies8.pw/favicon-32x32.png$image,1p
+xmovies8.pw##.footer_logo__2umvp > [href="/"]
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(1)
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(2)
+xmovies8.pw##.footer_description__1hrLr
+xmovies8.pw##.footer_copyright__3UFkA
+xmovies8.pw##[href="/termsofservice"]
+xmovies8.pw##[href="/policies"]
+xmovies8.pw##.footer_privacy__rtB45
+xmovies8.pw##.watch_content-tags__2tI5p > ul
+! 2021-01-30 https://new123movies.be
+new123movies.be##.clear_fix > div
+new123movies.be##.clear_fix > div
+new123movies.be##a.btn-success.btn:nth-of-type(2)
+new123movies.be##a.btn-success.btn > div
+new123movies.be##a.btn-success.btn
+new123movies.be##.main-detail.main-content > .pad
+! 2021-01-30 https://www.xvideos.com
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.xv-cams-header > p
+! 2021-01-30 https://xhamster.com
+||static-lvlt.xhcdn.com/xh-desktop/images/common/footer/vf4ded6a4.rta.png$image
+xhamster.com##[src="https://static-lvlt.xhcdn.com/xh-desktop/images/common/footer/vf4ded6a4.rta.png"]
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.watch_social-buttons__3ty5_
+xmovies8.pw##button.watch_social-icon__6hVrK.react-share__ShareButton:nth-of-type(2)
+https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+##.clearfix.comments-container.comments-section > .width-wrap
+##.comments-wrap
+##.beta-preloader.content-container
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+##.clearfix.comments-container.comments-section > .width-wrap
+##.comments-wrap
+##.beta-preloader.content-container
+##.comments-list
+###comment-77295077 > .comment-info
+###comment-77295077 > .comment-info > .comment-body
+##.tooltip-nocache.verified-beta.xh-icon
+###comment-77295077 > .comment-info > .comment-body > .user-info
+##.footer-top-part
+##.earn-block > .square.black.xh-button
+##.earn-block
+##.square.black.xh-button
+##.footer-top-part
+##footer
+##footer > .width-wrap
+##.footer-bottom-part
+##div.column-40.footer-column:nth-of-type(3)
+##.rta
+##.comments-list
+###comment-81524187 > .user
+###comment-81524187 > .user > .small.avatar-container
+###comment-81524187 > .user > .small.avatar-container > .small.xh-avatar
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+##.clearfix.comments-container.comments-section > .width-wrap
+##.comments-wrap
+##.beta-preloader.content-container
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+##.clearfix.comments-container.comments-section > .width-wrap
+##.comments-wrap
+##.beta-preloader.content-container
+##.comments-list
+###comment-info
+##comment-info
+###comment-77295077 > .comment-info > .comment-body
+##.comment-info
+##.comment-body
+##.tooltip-nocache.verified-beta.xh-icon
+###comment-77295077 > .comment-info > .comment-body
+##.user-info
+##.footer-top-part
+##.earn-block > .square.black.xh-button
+##.earn-block
+##.square.black.xh-button
+##.footer-top-part
+##footer
+##footer > .width-wrap
+##.footer-bottom-part
+##div.column-40.footer-column:nth-of-type(3)
+##.rta
+||thumb-user.xhcdn.com/a/*
+###comment-81524187 > .user > .small.avatar-container > .small.xh-avatar
+###comment-81524187 > .user > .small.avatar-container
+###comment-81524187 > .user
+##.comments-list
+##.input-area
+##.xh-multiline-editable.textarea.comment-textarea
+##.my-comment
+##.clearfix.comments-container.comments-section > .width-wrap
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+||static-lvlt.xhcdn.com/xh-desktop/images/logo/logo.svg
+##.xh-dropdown.lang-geo-picker-container
+##.darkest.trigger.picker-trigger
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com##.thread-node-metadata
+www.xvideos.com##.thread-node-content > .thread-node-poster
+www.xvideos.com##.thread-video-comments.x-thread
+www.xvideos.com###tabComments
+www.xvideos.com##.botLinks
+www.xvideos.com##.mobile-hide.slogan
+www.xvideos.com##footer
+www.xvideos.com###chat-window.chat-hidden
+www.xvideos.com##.chat-title
+www.xvideos.com##.mobile-hide.text-danger
+www.xvideos.com###site-logo-link
+www.xvideos.com###site-logo-link.logo
+www.xvideos.com###site-logo-link.logo
+www.xvideos.com###site-logo-svg
+www.xvideos.com###site-logo.no-blur
+www.xvideos.com###site-logo
+! 2/15/2020 http://crackstreams.com
+||st.chatango.com/h5/gz/*/id.html$subdocument
+crackstreams.com##center:nth-of-type(3)
+! 3/13/2020 https://moviegaga.to
+moviegaga.to###share-this-movie
+! 3/13/2020 https://yesmovies.ag
+yesmovies.ag##cloudflare-app
+! 3/13/2020 https://vidoza.net
+vidoza.net##footer
+! 4/15/2020 arrests.org
+||florida.arrests.org/images/logo.png$image,domain=florida.arrests.org
+! 4/15/2020 https://florida.arrests.org
+florida.arrests.org##footer
+! 4/16/2020 https://www.instantcheckmate.com
+www.instantcheckmate.com###welcome-back
+www.instantcheckmate.com###unlock-offer
+! 4/28/2020 https://www.instagram.com
+www.instagram.com##.XX4wn > div
+! 5/10/2020 https://www.netflix.com
+www.netflix.com###patreon-container
+www.netflix.com###patreon-link
+www.netflix.com###patreon-container
+! 5/13/2020 https://community.spiceworks.com
+community.spiceworks.com##.join-alt-modal--six-second.sui-modal_content—overflow.sui-modal_content.join-login-container_modal.join-login-container
+community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
+! 5/13/2020 https://www.bruceclay.com
+www.bruceclay.com##.header-container
+www.bruceclay.com##[href="/traffic"]
+! 5/13/2020 https://www.lastpass.com
+www.lastpass.com##.lp-popup.lp-pg-popup
+! 5/13/2020 https://www.thecinemaholic.com
+www.thecinemaholic.com###header
+www.thecinemaholic.com###footer
+www.thecinemaholic.com##.gridlove-related
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.footer-title
+www.pornhub.com##.footer
+www.pornhub.com##.js_dropdownBound.languageWrapper
+www.pornhub.com###RTAImage
+www.pornhub.com##.rta
+www.pornhub.com##[href="/information#rating"]
+www.pornhub.com##.logoFooterWrapper
+www.pornhub.com##.fanClubBox.contentContainer
+www.pornhub.com##.translateFix.spriteProfileIcons.blockAndReport.sectionWrapper
+www.pornhub.com##.hd-thumbnail
+www.pornhub.com##.abovePlayer
+www.pornhub.com##.abAlertInner
+www.pornhub.com###abAlert
+! 5/13/2020 https://ip8.com
+ip8.com###fc_widget
+ip8.com##.navbar-brand
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.alpha.dropdownTrigger.notificationIcon
+www.pornhub.com###notificationIcons
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##footer
+jp.spankbang.com##.footer_bbm
+! 5/13/2020 https://m.spankbang.com
+##.tab_comments
+m.spankbang.com##[href^="/category/toy/"]
+m.spankbang.com###categories > [href^="/category/squirt/"]
+m.spankbang.com##.iZymxx.BlackLabelFooter__FooterContainer-sc-2qn5y4-0
+! 5/13/2020 https://chaturbate.com
+##[href="/male-cams/"]
+##.logo-zone
+##[href="/trans-cams/"]
+##[href="/tag/pregnant/f/"]
+##[href="/tag/pantyhose/f/"]
+##[href="/tag/feet/f/"]
+##[href="/tag/squirt/f/"]
+##[href="/tag/mature/f/"]
+chaturbate.com###footer-holder
+chaturbate.com##[href="/tipping/free_tokens/"]
+chaturbate.com###qu > [href="#"]
+chaturbate.com##.clearfix.section
+chaturbate.com##li:nth-of-type(5) > .cf_div_theme_dark
+chaturbate.com##[href^="/accounts/register/"]
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(4)
+chaturbate.com###qu > div:nth-of-type(5)
+chaturbate.com###qu > span
+chaturbate.com##div.tag_row:nth-of-type(30)
+chaturbate.com##div.tag_row:nth-of-type(29)
+chaturbate.com##[href="/andreja_pejic/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##[href^="/category/cam/"]
+jp.spankbang.com##[href^="/category/gay/"]
+jp.spankbang.com##[href^="/category/fisting/"] > span > font > font
+jp.spankbang.com##[href^="/category/fisting/"]
+jp.spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+spankbang.com##[href^="/category/cam/"]
+spankbang.com##[href^="/category/gay/"]
+spankbang.com##[href^="/category/fisting/"] > span > font > font
+spankbang.com##[href^="/category/fisting/"]
+spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+##[href^="/category/cam/"]
+##[href^="/category/gay/"]
+##[href^="/category/fisting/"] > span > font > font
+##[href^="/category/fisting/"]
+##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##[href="/live/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##.categories > [href^="/category/bondage/"]
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##[href^="/category/shemale/"]
+m.spankbang.com##[href^="/category/hentai/"]
+m.spankbang.com##[href^="/category/fetish/"]
+m.spankbang.com###categories > [href^="/category/bondage/"]
+m.spankbang.com##[href^="/category/big+dick/"]
+m.spankbang.com##[href^="/category/anal/"]
+m.spankbang.com##[href^="/category/bbw/"] > .cover
+m.spankbang.com##[href^="/category/bbw/"]
+m.spankbang.com##[href^="/category/hardcore/"]
+m.spankbang.com##.twitter-follow-button
+m.spankbang.com##a.k:nth-of-type(36)
+m.spankbang.com##.upload
+m.spankbang.com##.tabs > .cf_div_theme_dark
+m.spankbang.com##.tabs
+m.spankbang.com##.fl
+m.spankbang.com##.vjs-loading-spinner
+m.spankbang.com##.tabs > .cf_div_theme_dark.clutterFree_noIcon.clutterFree_existingDuplicate
+m.spankbang.com##.tabs
+m.spankbang.com##.i_flag.i_svg
+m.spankbang.com##.tab_similar > h2
+m.spankbang.com##.fl
+m.spankbang.com##.more_menu > .badge
+m.spankbang.com##.tab_comments
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="https://cbswag.com"]
+chaturbate.com##[href="/tag/hairy/c/"]
+chaturbate.com##[href="/tag/pregnant/couple/"]
+chaturbate.com##[href="/tag/bdsm/couple/"]
+chaturbate.com##.tag > [href="/tag/squirt/couple/"]
+chaturbate.com##[href="/tag/bbw/couple/"]
+chaturbate.com##[href="/tag/milk/couple/"]
+chaturbate.com##[href="/tag/mature/couple/"]
+chaturbate.com##.tag > [href="/tag/feet/couple/"]
+chaturbate.com##[href="/tag/slave/couple/"]
+chaturbate.com##[href="/tag/pantyhose/couple/"]
+chaturbate.com##[href="/tag/mistress/couple/"]
+chaturbate.com##[href="/tag/smoke/couple/"]
+chaturbate.com##[href="/tag/strapon/couple/"]
+chaturbate.com##[href="/tag/femdom/couple/"]
+chaturbate.com##[href="/tag/bigclit/couple/"]
+chaturbate.com##[href="/tag/fuckmachine/couple/"]
+chaturbate.com##[href="/tag/fetish/couple/"]
+chaturbate.com##[href="/tag/heels/couple/"]
+chaturbate.com##[href="/tag/humiliation/couple/"]
+chaturbate.com##[href="/tag/submissive/couple/"]
+chaturbate.com##[href="/tag/pegging/couple/"]
+chaturbate.com##[href="/tag/domi/couple/"]
+chaturbate.com##[href="/tags/trans/"]
+chaturbate.com##[href="/tags/male/"]
+! 5/14/2020 chaturbate.com
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(1)
+chaturbate.com##[src="https://camo.stream.highwebmedia.com/77a82cc70562bd988fc7fa411d9b4d01c66557c5/687474703a2f2f696d616765732e646d63612e636f6d2f4261646765732f646d63615f70726f7465637465645f736d6c5f3132306c2e706e67"]
+chaturbate.com##[href="/my_collection/photo_videos/"]
+chaturbate.com##[href="/my_collection/private_shows/"]
+chaturbate.com##.sub-nav
+! 5/14/2020 https://www.xvideos.com
+www.xvideos.com##.thumb-inside > .video-hd-mark
+www.xvideos.com##.thumb-inside > .video-sd-mark
+www.xvideos.com###nav-trends > .mobile-hide
+! 5/14/2020 https://info.xvideos.com
+info.xvideos.com###section-shortcuts > ul > li:nth-of-type(4)
+info.xvideos.com###section-support > ul > li:nth-of-type(2)
+info.xvideos.com###section-support
+info.xvideos.com###footer
+info.xvideos.com###section-legal_stuff > ul
+info.xvideos.com###section-legal_stuff > .title
+info.xvideos.com###section-external_links > ul
+info.xvideos.com###section-external_links > .title
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pregnant/"]
+chaturbate.com##.thumbnail_label_exhibitionist.thumbnail_label
+chaturbate.com##.thumbnail_label_c.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd_plus.thumbnail_label
+chaturbate.com##.thumbnail_label_c_new.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd.thumbnail_label
+chaturbate.com##div:nth-of-type(6) > [href="/spy-on-cams/"]
+chaturbate.com###Sp > div:nth-of-type(1)
+chaturbate.com###bt > div:nth-of-type(2)
+chaturbate.com###Lw > div:nth-of-type(2)
+chaturbate.com##[href="https://www.surveymonkey.com/r/6NS9RJ5"]
+chaturbate.com###Au > div:nth-of-type(5) > span
+chaturbate.com##.tip_shell
+chaturbate.com##.headline > .buttons > li:nth-of-type(4) > .nooverlay
+chaturbate.com##li:nth-of-type(3) > .nooverlay
+chaturbate.com##.headline > .buttons > li:nth-of-type(2) > .nooverlay
+chaturbate.com##.headline > .buttons > .active > .nooverlay
+chaturbate.com##.bio
+chaturbate.com###model_rating_ctrl_dim
+chaturbate.com###report_popup_link
+chaturbate.com##.video-box > .title
+chaturbate.com###user-list
+chaturbate.com###send-tip
+chaturbate.com###Nu > span:nth-of-type(9)
+chaturbate.com###chat-btn
+chaturbate.com###more-rooms
+chaturbate.com##span > p:nth-of-type(1)
+chaturbate.com###Lw > div:nth-of-type(3)
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com##.sectionWrapper > .sectionWrapper
+www.pornhub.com##.footerContentWrapper
+www.pornhub.com###headerUpgradePremiumBtn
+www.pornhub.com###under-player-comments
+www.pornhub.com###menuItem4
+www.pornhub.com###menuItem6
+www.pornhub.com###menuItem7
+www.pornhub.com###menuItem5
+www.pornhub.com###p2vVideosVPage
+www.pornhub.com###v163943421 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com###v215477231 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com##.fakeClick
+www.pornhub.com###searchTypeSelected > .video
+! 5/14/2020 tube8.com
+! 5/14/2020 https://www.tube8.com
+www.tube8.com##.footer-stripe-wrapper-grey
+www.tube8.com###footer-content
+www.tube8.com###footer-text
+www.tube8.com###allComments
+www.tube8.com###top-getvip
+www.tube8.com###networkbar
+www.tube8.com###PornhubNetworkBar
+www.tube8.com##.lang-switch > a
+www.tube8.com##.lang-switch
+www.tube8.com###language-nav
+www.tube8.com##.orientation-switch
+www.tube8.com###orientation-nav
+www.tube8.com##.relative.logo-box
+www.tube8.com###top-upload
+www.tube8.com###btn_report > .icon-flag
+www.tube8.com###embedButton
+www.tube8.com##.underplayerBanner
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com###js-networkBar
+www.pornhub.com###js-toggleArrow
+www.pornhub.com###searchTypeSelected
+! 5/14/2020 https://chaturbate.com
+chaturbate.com###Xw
+chaturbate.com###Hp
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(2)
+! 5/18/2020 https://twitter.com
+twitter.com###banners
+twitter.com##.Banner--aboveNav.Banner
+! 5/19/2020 https://hangouts.google.com
+hangouts.google.com##.g-Ue-ad
+hangouts.google.com##.g-Ue-T-R > div
+! 5/19/2020 https://twitter.com
+twitter.com###tmf-settings
+twitter.com##div.fadeInRight.animated.tmf-ad:nth-of-type(1)
+twitter.com##.tmf-ads
+twitter.com##.modal-overlay
+twitter.com###tmf.tmf--show.tmf
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com###site-settings > .flag-us.flag-small
+www.xvideos.com##.flag-us.flag-small
+! 09/08/2020 https://www.xvideos.com
+www.xvideos.com##.big-buttons-sub
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4)
+chaturbate.com##span > div > table
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > [href="#"]
+chaturbate.com##a[href="#"]:nth-of-type(5)
+chaturbate.com##span > div > div > span:nth-of-type(2)
+chaturbate.com##span > div > div > span:nth-of-type(3)
+chaturbate.com##span > div
+chaturbate.com###hashtag_ticker > [href="/tag/feet/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pantyhose/"]
+chaturbate.com##[href="/tag/bdsm/"]
+chaturbate.com##[href="/tag/mistress/"]
+chaturbate.com###hashtag_ticker > [href="/tag/mature/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milf/"]
+chaturbate.com###hashtag_ticker > [href="/tag/hairy/"]
+chaturbate.com##[href="/tag/bbw/"]
+chaturbate.com###hashtag_ticker > [href="/tag/anal/"]
+chaturbate.com###hashtag_ticker > [href="/tag/squirt/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milk/"]
+chaturbate.com##[href="/tag/lesbian/"]
+chaturbate.com###hashtag_ticker > [href="/tag/bigcock/"]
+chaturbate.com###hashtag_ticker > [href="/tag/fuckmachine/"]
+! 2020-09-08 https://dicksucking.chaturbate.com
+dicksucking.chaturbate.com##[href="/tag/feet/c/"]
+dicksucking.chaturbate.com##[href="/tag/mistress/c/"]
+dicksucking.chaturbate.com##[href="/tag/milf/c/"]
+dicksucking.chaturbate.com##[href="/tag/anal/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbw/c/"]
+dicksucking.chaturbate.com##[href="/tag/squirt/c/"]
+dicksucking.chaturbate.com##[href="/tag/pregnant/c/"]
+dicksucking.chaturbate.com##[href="/tag/new/c/"]
+dicksucking.chaturbate.com##[href="/tag/bdsm/c/"]
+dicksucking.chaturbate.com##[href="/tag/pantyhose/c/"]
+dicksucking.chaturbate.com##[href="/tag/slave/c/"] 
+dicksucking.chaturbate.com##[href="/tag/strapon/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbc/c/"]
+dicksucking.chaturbate.com##[href="/tag/bigcock/c/"]
+dicksucking.chaturbate.com##[href="/tag/smoke/c/"]
+dicksucking.chaturbate.com##[href="/tag/daddy/c/"]
+dicksucking.chaturbate.com##[href="/tag/milk/c/"]
+dicksucking.chaturbate.com##[href="/tag/cum/c/"]
+dicksucking.chaturbate.com##[href="/tag/hairyarmpits/c/"]
+! 2020-09-08 https://adlock.com
+adlock.com##.banner_N
+adlock.com###banner_full
+! 2020-09-08 https://mega.nz
+mega.nz##.fm-dialog-overlay
+mega.nz##.achievements.registered.limited-bandwidth-dialog.fm-dialog > .centered-content.fm-dialog-body
+mega.nz##.ui-selectable.megaList.megaListContainer.grid-scrolling-table
+! 2020-09-08 https://meyerweb.com
+meyerweb.com##h1
+meyerweb.com###footer
+meyerweb.com##ul
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##[href="/tag/bdsm/c/"]
+chaturbate.com##[href="/tag/milk/c/"]
+chaturbate.com##[href="/tag/feet/c/"]
+chaturbate.com##[href="/tag/squirt/c/"]
+chaturbate.com##[href="/tag/mistress/c/"]
+chaturbate.com##[href="/tag/bbw/c/"]
+chaturbate.com##[href="/tag/ebony/c/"]
+chaturbate.com##[href="/tag/anal/c/"]
+chaturbate.com##[href="/tag/slave/c/"]
+chaturbate.com##[href="/tag/strapon/c/"]
+chaturbate.com###main > div > div:nth-of-type(6) > span
+chaturbate.com###main > div > div:nth-of-type(6) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(5) > span
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > span
+chaturbate.com##[href="/tag/chubby/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/daddy/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/slave/"]
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4) > div > div
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > a[href="#"]:nth-of-type(3)
+chaturbate.com##span:nth-of-type(2) > [href="/fanclub/join/honey_devildoll/"]
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##[href="/b/raepurbutt/"]
+chaturbate.com##div:nth-of-type(5) > [href="#"]
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.noselect.videoad-title-invideo.videoad-title
+www.xvideos.com###mobile-login-btn
+! 2020-09-08 https://duncantrussell.merchtable.com
+duncantrussell.merchtable.com###launcher-frame
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.verified.icf-check-circle.icon-f
+! 2020-12-10 https://hide.me
+hide.me##.livechat__label
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##div.js-livechatMain.livechat:nth-of-type(2)
+hide.me##.js-livechat.u-cursorpointer.livechat__bubble
+hide.me##div.js-livechatMain.livechat:nth-of-type(1)
+! 2021-01-30 https://www.3dnatives.com
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.footer_logo__2umvp > [href="/"]
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(1)
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(2)
+xmovies8.pw##.footer_description__1hrLr
+xmovies8.pw##.footer_copyright__3UFkA
+xmovies8.pw##[href="/termsofservice"]
+xmovies8.pw##[href="/policies"]
+xmovies8.pw##.footer_privacy__rtB45
+xmovies8.pw##.watch_content-tags__2tI5p > ul
+! 2021-01-30 https://new123movies.be
+new123movies.be##.clear_fix > div
+new123movies.be##.clear_fix > div
+new123movies.be##a.btn-success.btn:nth-of-type(2)
+new123movies.be##a.btn-success.btn > div
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com##.thread-node-metadata
+www.xvideos.com##.thread-node-content > .thread-node-poster
+www.xvideos.com##.thread-video-comments.x-thread
+www.xvideos.com###tabComments
+www.xvideos.com##.botLinks
+www.xvideos.com##.mobile-hide.slogan
+www.xvideos.com##footer
+www.xvideos.com###chat-window.chat-hidden
+www.xvideos.com##.chat-title
+www.xvideos.com##.mobile-hide.text-danger
+www.xvideos.com###site-logo-link
+www.xvideos.com###site-logo-link.logo
+www.xvideos.com###site-logo-link.logo
+www.xvideos.com###site-logo-svg
+www.xvideos.com###site-logo.no-blur
+www.xvideos.com###site-logo
+! 2/15/2020 http://crackstreams.com
+crackstreams.com##center:nth-of-type(3)
+! 3/13/2020 https://moviegaga.to
+moviegaga.to###share-this-movie
+! 3/13/2020 https://yesmovies.ag
+yesmovies.ag##cloudflare-app
+! 3/13/2020 https://vidoza.net
+vidoza.net##footer
+! 4/15/2020 arrests.org
+! 4/15/2020 https://florida.arrests.org
+florida.arrests.org##footer
+! 4/16/2020 https://www.instantcheckmate.com
+www.instantcheckmate.com###welcome-back
+www.instantcheckmate.com###unlock-offer
+! 4/28/2020 https://www.instagram.com
+www.instagram.com##.XX4wn > div
+! 5/10/2020 https://www.netflix.com
+www.netflix.com###patreon-container
+www.netflix.com###patreon-link
+www.netflix.com###patreon-container
+! 5/13/2020 https://community.spiceworks.com
+community.spiceworks.com##.join-alt-modal--six-second.sui-modal_content—overflow.sui-modal_content.join-login-container_modal.join-login-container
+community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
+! 5/13/2020 https://www.bruceclay.com
+www.bruceclay.com##.header-container
+www.bruceclay.com##[href="/traffic"]
+! 5/13/2020 https://www.lastpass.com
+www.lastpass.com##.lp-popup.lp-pg-popup
+! 5/13/2020 https://www.thecinemaholic.com
+www.thecinemaholic.com###header
+www.thecinemaholic.com###footer
+www.thecinemaholic.com##.gridlove-related
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.footer-title
+www.pornhub.com##.footer
+www.pornhub.com##.js_dropdownBound.languageWrapper
+www.pornhub.com###RTAImage
+www.pornhub.com##.rta
+www.pornhub.com##[href="/information#rating"]
+www.pornhub.com##.logoFooterWrapper
+www.pornhub.com##.fanClubBox.contentContainer
+www.pornhub.com##.translateFix.spriteProfileIcons.blockAndReport.sectionWrapper
+www.pornhub.com##.hd-thumbnail
+www.pornhub.com##.abovePlayer
+www.pornhub.com##.abAlertInner
+www.pornhub.com###abAlert
+! 5/13/2020 https://ip8.com
+ip8.com###fc_widget
+ip8.com##.navbar-brand
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.alpha.dropdownTrigger.notificationIcon
+www.pornhub.com###notificationIcons
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##footer
+jp.spankbang.com##.footer_bbm
+! 5/13/2020 https://m.spankbang.com
+##.tab_comments
+m.spankbang.com##[href^="/category/toy/"]
+m.spankbang.com###categories > [href^="/category/squirt/"]
+m.spankbang.com##.iZymxx.BlackLabelFooter__FooterContainer-sc-2qn5y4-0
+! 5/13/2020 https://chaturbate.com
+##[href="/male-cams/"]
+##.logo-zone
+##[href="/trans-cams/"]
+##[href="/tag/pregnant/f/"]
+##[href="/tag/pantyhose/f/"]
+##[href="/tag/feet/f/"]
+##[href="/tag/squirt/f/"]
+##[href="/tag/mature/f/"]
+chaturbate.com###footer-holder
+chaturbate.com##[href="/tipping/free_tokens/"]
+chaturbate.com###qu > [href="#"]
+chaturbate.com##.clearfix.section
+chaturbate.com##li:nth-of-type(5) > .cf_div_theme_dark
+chaturbate.com##[href^="/accounts/register/"]
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(4)
+chaturbate.com###qu > div:nth-of-type(5)
+chaturbate.com###qu > span
+chaturbate.com##div.tag_row:nth-of-type(30)
+chaturbate.com##div.tag_row:nth-of-type(29)
+chaturbate.com##[href="/andreja_pejic/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##[href^="/category/cam/"]
+jp.spankbang.com##[href^="/category/gay/"]
+jp.spankbang.com##[href^="/category/fisting/"] > span > font > font
+jp.spankbang.com##[href^="/category/fisting/"]
+jp.spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+spankbang.com##[href^="/category/cam/"]
+spankbang.com##[href^="/category/gay/"]
+spankbang.com##[href^="/category/fisting/"] > span > font > font
+spankbang.com##[href^="/category/fisting/"]
+spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+##[href^="/category/cam/"]
+##[href^="/category/gay/"]
+##[href^="/category/fisting/"] > span > font > font
+##[href^="/category/fisting/"]
+##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##[href="/live/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##.categories > [href^="/category/bondage/"]
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##[href^="/category/shemale/"]
+m.spankbang.com##[href^="/category/hentai/"]
+m.spankbang.com##[href^="/category/fetish/"]
+m.spankbang.com###categories > [href^="/category/bondage/"]
+m.spankbang.com##[href^="/category/big+dick/"]
+m.spankbang.com##[href^="/category/anal/"]
+m.spankbang.com##[href^="/category/bbw/"] > .cover
+m.spankbang.com##[href^="/category/bbw/"]
+m.spankbang.com##[href^="/category/hardcore/"]
+m.spankbang.com##.twitter-follow-button
+m.spankbang.com##a.k:nth-of-type(36)
+m.spankbang.com##.upload
+m.spankbang.com##.tabs > .cf_div_theme_dark
+m.spankbang.com##.tabs
+m.spankbang.com##.fl
+m.spankbang.com##.vjs-loading-spinner
+m.spankbang.com##.tabs > .cf_div_theme_dark.clutterFree_noIcon.clutterFree_existingDuplicate
+m.spankbang.com##.tabs
+m.spankbang.com##.i_flag.i_svg
+m.spankbang.com##.tab_similar > h2
+m.spankbang.com##.fl
+m.spankbang.com##.more_menu > .badge
+m.spankbang.com##.tab_comments
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="https://cbswag.com"]
+chaturbate.com##[href="/tag/hairy/c/"]
+chaturbate.com##[href="/tag/pregnant/couple/"]
+chaturbate.com##[href="/tag/bdsm/couple/"]
+chaturbate.com##.tag > [href="/tag/squirt/couple/"]
+chaturbate.com##[href="/tag/bbw/couple/"]
+chaturbate.com##[href="/tag/milk/couple/"]
+chaturbate.com##[href="/tag/mature/couple/"]
+chaturbate.com##.tag > [href="/tag/feet/couple/"]
+chaturbate.com##[href="/tag/slave/couple/"]
+chaturbate.com##[href="/tag/pantyhose/couple/"]
+chaturbate.com##[href="/tag/mistress/couple/"]
+chaturbate.com##[href="/tag/smoke/couple/"]
+chaturbate.com##[href="/tag/strapon/couple/"]
+chaturbate.com##[href="/tag/femdom/couple/"]
+chaturbate.com##[href="/tag/bigclit/couple/"]
+chaturbate.com##[href="/tag/fuckmachine/couple/"]
+chaturbate.com##[href="/tag/fetish/couple/"]
+chaturbate.com##[href="/tag/heels/couple/"]
+chaturbate.com##[href="/tag/humiliation/couple/"]
+chaturbate.com##[href="/tag/submissive/couple/"]
+chaturbate.com##[href="/tag/pegging/couple/"]
+chaturbate.com##[href="/tag/domi/couple/"]
+chaturbate.com##[href="/tags/trans/"]
+chaturbate.com##[href="/tags/male/"]
+! 5/14/2020 chaturbate.com
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(1)
+chaturbate.com##[src="https://camo.stream.highwebmedia.com/77a82cc70562bd988fc7fa411d9b4d01c66557c5/687474703a2f2f696d616765732e646d63612e636f6d2f4261646765732f646d63615f70726f7465637465645f736d6c5f3132306c2e706e67"]
+chaturbate.com##[href="/my_collection/photo_videos/"]
+chaturbate.com##[href="/my_collection/private_shows/"]
+chaturbate.com##.sub-nav
+! 5/14/2020 https://www.xvideos.com
+www.xvideos.com##.thumb-inside > .video-hd-mark
+www.xvideos.com##.thumb-inside > .video-sd-mark
+www.xvideos.com###nav-trends > .mobile-hide
+! 5/14/2020 https://info.xvideos.com
+info.xvideos.com###section-shortcuts > ul > li:nth-of-type(4)
+info.xvideos.com###section-support > ul > li:nth-of-type(2)
+info.xvideos.com###section-support
+info.xvideos.com###footer
+info.xvideos.com###section-legal_stuff > ul
+info.xvideos.com###section-legal_stuff > .title
+info.xvideos.com###section-external_links > ul
+info.xvideos.com###section-external_links > .title
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pregnant/"]
+chaturbate.com##.thumbnail_label_exhibitionist.thumbnail_label
+chaturbate.com##.thumbnail_label_c.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd_plus.thumbnail_label
+chaturbate.com##.thumbnail_label_c_new.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd.thumbnail_label
+chaturbate.com##div:nth-of-type(6) > [href="/spy-on-cams/"]
+chaturbate.com###Sp > div:nth-of-type(1)
+chaturbate.com###bt > div:nth-of-type(2)
+chaturbate.com###Lw > div:nth-of-type(2)
+chaturbate.com##[href="https://www.surveymonkey.com/r/6NS9RJ5"]
+chaturbate.com###Au > div:nth-of-type(5) > span
+chaturbate.com##.tip_shell
+chaturbate.com##.headline > .buttons > li:nth-of-type(4) > .nooverlay
+chaturbate.com##li:nth-of-type(3) > .nooverlay
+chaturbate.com##.headline > .buttons > li:nth-of-type(2) > .nooverlay
+chaturbate.com##.headline > .buttons > .active > .nooverlay
+chaturbate.com##.bio
+chaturbate.com###model_rating_ctrl_dim
+chaturbate.com###report_popup_link
+chaturbate.com##.video-box > .title
+chaturbate.com###user-list
+chaturbate.com###send-tip
+chaturbate.com###Nu > span:nth-of-type(9)
+chaturbate.com###chat-btn
+chaturbate.com###more-rooms
+chaturbate.com##span > p:nth-of-type(1)
+chaturbate.com###Lw > div:nth-of-type(3)
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com##.sectionWrapper > .sectionWrapper
+www.pornhub.com##.footerContentWrapper
+www.pornhub.com###headerUpgradePremiumBtn
+www.pornhub.com###under-player-comments
+www.pornhub.com###menuItem4
+www.pornhub.com###menuItem6
+www.pornhub.com###menuItem7
+www.pornhub.com###menuItem5
+www.pornhub.com###p2vVideosVPage
+www.pornhub.com###v163943421 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com###v215477231 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com##.fakeClick
+www.pornhub.com###searchTypeSelected > .video
+! 5/14/2020 tube8.com
+! 5/14/2020 https://www.tube8.com
+www.tube8.com##.footer-stripe-wrapper-grey
+www.tube8.com###footer-content
+www.tube8.com###footer-text
+www.tube8.com###allComments
+www.tube8.com###top-getvip
+www.tube8.com###networkbar
+www.tube8.com###PornhubNetworkBar
+www.tube8.com##.lang-switch > a
+www.tube8.com##.lang-switch
+www.tube8.com###language-nav
+www.tube8.com##.orientation-switch
+www.tube8.com###orientation-nav
+www.tube8.com##.relative.logo-box
+www.tube8.com###top-upload
+www.tube8.com###btn_report > .icon-flag
+www.tube8.com###embedButton
+www.tube8.com##.underplayerBanner
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com###js-networkBar
+www.pornhub.com###js-toggleArrow
+www.pornhub.com###searchTypeSelected
+! 5/14/2020 https://chaturbate.com
+chaturbate.com###Xw
+chaturbate.com###Hp
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(2)
+! 5/18/2020 https://twitter.com
+twitter.com###banners
+twitter.com##.Banner--aboveNav.Banner
+! 5/19/2020 https://hangouts.google.com
+hangouts.google.com##.g-Ue-ad
+hangouts.google.com##.g-Ue-T-R > div
+! 5/19/2020 https://twitter.com
+twitter.com###tmf-settings
+twitter.com##div.fadeInRight.animated.tmf-ad:nth-of-type(1)
+twitter.com##.tmf-ads
+twitter.com##.modal-overlay
+twitter.com###tmf.tmf--show.tmf
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com###site-settings > .flag-us.flag-small
+www.xvideos.com##.flag-us.flag-small
+! 09/08/2020 https://www.xvideos.com
+www.xvideos.com##.big-buttons-sub
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4)
+chaturbate.com##span > div > table
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > [href="#"]
+chaturbate.com##a[href="#"]:nth-of-type(5)
+chaturbate.com##span > div > div > span:nth-of-type(2)
+chaturbate.com##span > div > div > span:nth-of-type(3)
+chaturbate.com##span > div
+chaturbate.com###hashtag_ticker > [href="/tag/feet/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pantyhose/"]
+chaturbate.com##[href="/tag/bdsm/"]
+chaturbate.com##[href="/tag/mistress/"]
+chaturbate.com###hashtag_ticker > [href="/tag/mature/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milf/"]
+chaturbate.com###hashtag_ticker > [href="/tag/hairy/"]
+chaturbate.com##[href="/tag/bbw/"]
+chaturbate.com###hashtag_ticker > [href="/tag/anal/"]
+chaturbate.com###hashtag_ticker > [href="/tag/squirt/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milk/"]
+chaturbate.com##[href="/tag/lesbian/"]
+chaturbate.com###hashtag_ticker > [href="/tag/bigcock/"]
+chaturbate.com###hashtag_ticker > [href="/tag/fuckmachine/"]
+! 2020-09-08 https://dicksucking.chaturbate.com
+dicksucking.chaturbate.com##[href="/tag/feet/c/"]
+dicksucking.chaturbate.com##[href="/tag/mistress/c/"]
+dicksucking.chaturbate.com##[href="/tag/milf/c/"]
+dicksucking.chaturbate.com##[href="/tag/anal/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbw/c/"]
+dicksucking.chaturbate.com##[href="/tag/squirt/c/"]
+dicksucking.chaturbate.com##[href="/tag/pregnant/c/"]
+dicksucking.chaturbate.com##[href="/tag/new/c/"]
+dicksucking.chaturbate.com##[href="/tag/bdsm/c/"]
+dicksucking.chaturbate.com##[href="/tag/pantyhose/c/"]
+dicksucking.chaturbate.com##[href="/tag/slave/c/"] 
+dicksucking.chaturbate.com##[href="/tag/strapon/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbc/c/"]
+dicksucking.chaturbate.com##[href="/tag/bigcock/c/"]
+dicksucking.chaturbate.com##[href="/tag/smoke/c/"]
+dicksucking.chaturbate.com##[href="/tag/daddy/c/"]
+dicksucking.chaturbate.com##[href="/tag/milk/c/"]
+dicksucking.chaturbate.com##[href="/tag/cum/c/"]
+dicksucking.chaturbate.com##[href="/tag/hairyarmpits/c/"]
+! 2020-09-08 https://adlock.com
+adlock.com##.banner_N
+adlock.com###banner_full
+! 2020-09-08 https://mega.nz
+mega.nz##.fm-dialog-overlay
+mega.nz##.achievements.registered.limited-bandwidth-dialog.fm-dialog > .centered-content.fm-dialog-body
+mega.nz##.ui-selectable.megaList.megaListContainer.grid-scrolling-table
+! 2020-09-08 https://meyerweb.com
+meyerweb.com##h1
+meyerweb.com###footer
+meyerweb.com##ul
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##[href="/tag/bdsm/c/"]
+chaturbate.com##[href="/tag/milk/c/"]
+chaturbate.com##[href="/tag/feet/c/"]
+chaturbate.com##[href="/tag/squirt/c/"]
+chaturbate.com##[href="/tag/mistress/c/"]
+chaturbate.com##[href="/tag/bbw/c/"]
+chaturbate.com##[href="/tag/ebony/c/"]
+chaturbate.com##[href="/tag/anal/c/"]
+chaturbate.com##[href="/tag/slave/c/"]
+chaturbate.com##[href="/tag/strapon/c/"]
+chaturbate.com###main > div > div:nth-of-type(6) > span
+chaturbate.com###main > div > div:nth-of-type(6) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(5) > span
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > span
+chaturbate.com##[href="/tag/chubby/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/daddy/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/slave/"]
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4) > div > div
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > a[href="#"]:nth-of-type(3)
+chaturbate.com##span:nth-of-type(2) > [href="/fanclub/join/honey_devildoll/"]
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##[href="/b/raepurbutt/"]
+chaturbate.com##div:nth-of-type(5) > [href="#"]
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.noselect.videoad-title-invideo.videoad-title
+www.xvideos.com###mobile-login-btn
+! 2020-09-08 https://duncantrussell.merchtable.com
+duncantrussell.merchtable.com###launcher-frame
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.verified.icf-check-circle.icon-f
+! 2020-12-10 https://hide.me
+hide.me##.livechat__label
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##div.js-livechatMain.livechat:nth-of-type(2)
+hide.me##.js-livechat.u-cursorpointer.livechat__bubble
+hide.me##div.js-livechatMain.livechat:nth-of-type(1)
+! 2021-01-30 https://www.3dnatives.com
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.footer_logo__2umvp > [href="/"]
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(1)
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(2)
+xmovies8.pw##.footer_description__1hrLr
+xmovies8.pw##.footer_copyright__3UFkA
+xmovies8.pw##[href="/termsofservice"]
+xmovies8.pw##[href="/policies"]
+xmovies8.pw##.footer_privacy__rtB45
+xmovies8.pw##.watch_content-tags__2tI5p > ul
+! 2021-01-30 https://new123movies.be
+new123movies.be##.clear_fix > div
+new123movies.be##.clear_fix > div
+new123movies.be##a.btn-success.btn:nth-of-type(2)
+new123movies.be##a.btn-success.btn > div
+new123movies.be##a.btn-success.btn
+new123movies.be##.main-detail.main-content > .pad
+! 2021-01-30 https://www.xvideos.com
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.xv-cams-header > p
+! 2021-01-30 https://xhamster.com
+xhamster.com##[src="https://static-lvlt.xhcdn.com/xh-desktop/images/common/footer/vf4ded6a4.rta.png"]
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.watch_social-buttons__3ty5_
+xmovies8.pw##button.watch_social-icon__6hVrK.react-share__ShareButton:nth-of-type(2)
+new123movies.be##a.btn-success.btn
+new123movies.be##.main-detail.main-content > .pad
+! 2021-01-30 https://www.xvideos.com
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.xv-cams-header > p
+! 2021-01-30 https://xhamster.com
+xhamster.com##[src="https://static-lvlt.xhcdn.com/xh-desktop/images/common/footer/vf4ded6a4.rta.png"]
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.watch_social-buttons__3ty5_
+xmovies8.pw##button.watch_social-icon__6hVrK.react-share__ShareButton:nth-of-type(2)
+! 5/10/2020 https://www.netflix.com
+www.netflix.com###patreon-container
+www.netflix.com###patreon-link
+www.netflix.com###patreon-container
+! 5/13/2020 https://community.spiceworks.com
+community.spiceworks.com##.join-alt-modal--six-second.sui-modal_content—overflow.sui-modal_content.join-login-container_modal.join-login-container
+community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
+! 5/13/2020 https://www.bruceclay.com
+www.bruceclay.com##.header-container
+www.bruceclay.com##[href="/traffic"]
+! 5/13/2020 https://www.lastpass.com
+www.lastpass.com##.lp-popup.lp-pg-popup
+! 5/13/2020 https://www.thecinemaholic.com
+www.thecinemaholic.com###header
+www.thecinemaholic.com###footer
+www.thecinemaholic.com##.gridlove-related
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.footer-title
+www.pornhub.com##.footer
+www.pornhub.com##.js_dropdownBound.languageWrapper
+www.pornhub.com###RTAImage
+www.pornhub.com##.rta
+www.pornhub.com##[href="/information#rating"]
+www.pornhub.com##.logoFooterWrapper
+www.pornhub.com##.fanClubBox.contentContainer
+www.pornhub.com##.translateFix.spriteProfileIcons.blockAndReport.sectionWrapper
+www.pornhub.com##.hd-thumbnail
+www.pornhub.com##.abovePlayer
+www.pornhub.com##.abAlertInner
+www.pornhub.com###abAlert
+! 5/13/2020 https://ip8.com
+ip8.com###fc_widget
+ip8.com##.navbar-brand
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.alpha.dropdownTrigger.notificationIcon
+www.pornhub.com###notificationIcons
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##footer
+jp.spankbang.com##.footer_bbm
+! 5/13/2020 https://m.spankbang.com
+##.tab_comments
+m.spankbang.com##[href^="/category/toy/"]
+m.spankbang.com###categories > [href^="/category/squirt/"]
+m.spankbang.com##.iZymxx.BlackLabelFooter__FooterContainer-sc-2qn5y4-0
+! 5/13/2020 https://chaturbate.com
+##[href="/male-cams/"]
+##.logo-zone
+##[href="/trans-cams/"]
+##[href="/tag/pregnant/f/"]
+##[href="/tag/pantyhose/f/"]
+##[href="/tag/feet/f/"]
+##[href="/tag/squirt/f/"]
+##[href="/tag/mature/f/"]
+chaturbate.com###footer-holder
+chaturbate.com##[href="/tipping/free_tokens/"]
+chaturbate.com###qu > [href="#"]
+chaturbate.com##.clearfix.section
+chaturbate.com##li:nth-of-type(5) > .cf_div_theme_dark
+chaturbate.com##[href^="/accounts/register/"]
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(4)
+chaturbate.com###qu > div:nth-of-type(5)
+chaturbate.com###qu > span
+chaturbate.com##div.tag_row:nth-of-type(30)
+chaturbate.com##div.tag_row:nth-of-type(29)
+chaturbate.com##[href="/andreja_pejic/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##[href^="/category/cam/"]
+jp.spankbang.com##[href^="/category/gay/"]
+jp.spankbang.com##[href^="/category/fisting/"] > span > font > font
+jp.spankbang.com##[href^="/category/fisting/"]
+jp.spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+spankbang.com##[href^="/category/cam/"]
+spankbang.com##[href^="/category/gay/"]
+spankbang.com##[href^="/category/fisting/"] > span > font > font
+spankbang.com##[href^="/category/fisting/"]
+spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+##[href^="/category/cam/"]
+##[href^="/category/gay/"]
+##[href^="/category/fisting/"] > span > font > font
+##[href^="/category/fisting/"]
+##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##[href="/live/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##.categories > [href^="/category/bondage/"]
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##[href^="/category/shemale/"]
+m.spankbang.com##[href^="/category/hentai/"]
+m.spankbang.com##[href^="/category/fetish/"]
+m.spankbang.com###categories > [href^="/category/bondage/"]
+m.spankbang.com##[href^="/category/big+dick/"]
+m.spankbang.com##[href^="/category/anal/"]
+m.spankbang.com##[href^="/category/bbw/"] > .cover
+m.spankbang.com##[href^="/category/bbw/"]
+m.spankbang.com##[href^="/category/hardcore/"]
+m.spankbang.com##.twitter-follow-button
+m.spankbang.com##a.k:nth-of-type(36)
+m.spankbang.com##.upload
+m.spankbang.com##.tabs > .cf_div_theme_dark
+m.spankbang.com##.tabs
+m.spankbang.com##.fl
+m.spankbang.com##.vjs-loading-spinner
+m.spankbang.com##.tabs > .cf_div_theme_dark.clutterFree_noIcon.clutterFree_existingDuplicate
+m.spankbang.com##.tabs
+m.spankbang.com##.i_flag.i_svg
+m.spankbang.com##.tab_similar > h2
+m.spankbang.com##.fl
+m.spankbang.com##.more_menu > .badge
+m.spankbang.com##.tab_comments
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="https://cbswag.com"]
+chaturbate.com##[href="/tag/hairy/c/"]
+chaturbate.com##[href="/tag/pregnant/couple/"]
+chaturbate.com##[href="/tag/bdsm/couple/"]
+chaturbate.com##.tag > [href="/tag/squirt/couple/"]
+chaturbate.com##[href="/tag/bbw/couple/"]
+chaturbate.com##[href="/tag/milk/couple/"]
+chaturbate.com##[href="/tag/mature/couple/"]
+chaturbate.com##.tag > [href="/tag/feet/couple/"]
+chaturbate.com##[href="/tag/slave/couple/"]
+chaturbate.com##[href="/tag/pantyhose/couple/"]
+chaturbate.com##[href="/tag/mistress/couple/"]
+chaturbate.com##[href="/tag/smoke/couple/"]
+chaturbate.com##[href="/tag/strapon/couple/"]
+chaturbate.com##[href="/tag/femdom/couple/"]
+chaturbate.com##[href="/tag/bigclit/couple/"]
+chaturbate.com##[href="/tag/fuckmachine/couple/"]
+chaturbate.com##[href="/tag/fetish/couple/"]
+chaturbate.com##[href="/tag/heels/couple/"]
+chaturbate.com##[href="/tag/humiliation/couple/"]
+chaturbate.com##[href="/tag/submissive/couple/"]
+chaturbate.com##[href="/tag/pegging/couple/"]
+chaturbate.com##[href="/tag/domi/couple/"]
+chaturbate.com##[href="/tags/trans/"]
+chaturbate.com##[href="/tags/male/"]
+! 5/14/2020 chaturbate.com
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(1)
+chaturbate.com##[src="https://camo.stream.highwebmedia.com/77a82cc70562bd988fc7fa411d9b4d01c66557c5/687474703a2f2f696d616765732e646d63612e636f6d2f4261646765732f646d63615f70726f7465637465645f736d6c5f3132306c2e706e67"]
+chaturbate.com##[href="/my_collection/photo_videos/"]
+chaturbate.com##[href="/my_collection/private_shows/"]
+chaturbate.com##.sub-nav
+! 5/14/2020 https://www.xvideos.com
+www.xvideos.com##.thumb-inside > .video-hd-mark
+www.xvideos.com##.thumb-inside > .video-sd-mark
+www.xvideos.com###nav-trends > .mobile-hide
+! 5/14/2020 https://info.xvideos.com
+info.xvideos.com###section-shortcuts > ul > li:nth-of-type(4)
+info.xvideos.com###section-support > ul > li:nth-of-type(2)
+info.xvideos.com###section-support
+info.xvideos.com###footer
+info.xvideos.com###section-legal_stuff > ul
+info.xvideos.com###section-legal_stuff > .title
+info.xvideos.com###section-external_links > ul
+info.xvideos.com###section-external_links > .title
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pregnant/"]
+chaturbate.com##.thumbnail_label_exhibitionist.thumbnail_label
+chaturbate.com##.thumbnail_label_c.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd_plus.thumbnail_label
+chaturbate.com##.thumbnail_label_c_new.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd.thumbnail_label
+chaturbate.com##div:nth-of-type(6) > [href="/spy-on-cams/"]
+chaturbate.com###Sp > div:nth-of-type(1)
+chaturbate.com###bt > div:nth-of-type(2)
+chaturbate.com###Lw > div:nth-of-type(2)
+chaturbate.com##[href="https://www.surveymonkey.com/r/6NS9RJ5"]
+chaturbate.com###Au > div:nth-of-type(5) > span
+chaturbate.com##.tip_shell
+chaturbate.com##.headline > .buttons > li:nth-of-type(4) > .nooverlay
+chaturbate.com##li:nth-of-type(3) > .nooverlay
+chaturbate.com##.headline > .buttons > li:nth-of-type(2) > .nooverlay
+chaturbate.com##.headline > .buttons > .active > .nooverlay
+chaturbate.com##.bio
+chaturbate.com###model_rating_ctrl_dim
+chaturbate.com###report_popup_link
+chaturbate.com##.video-box > .title
+chaturbate.com###user-list
+chaturbate.com###send-tip
+chaturbate.com###Nu > span:nth-of-type(9)
+chaturbate.com###chat-btn
+chaturbate.com###more-rooms
+chaturbate.com##span > p:nth-of-type(1)
+chaturbate.com###Lw > div:nth-of-type(3)
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com##.sectionWrapper > .sectionWrapper
+www.pornhub.com##.footerContentWrapper
+www.pornhub.com###headerUpgradePremiumBtn
+www.pornhub.com###under-player-comments
+www.pornhub.com###menuItem4
+www.pornhub.com###menuItem6
+www.pornhub.com###menuItem7
+www.pornhub.com###menuItem5
+www.pornhub.com###p2vVideosVPage
+www.pornhub.com###v163943421 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com###v215477231 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com##.fakeClick
+www.pornhub.com###searchTypeSelected > .video
+! 5/14/2020 tube8.com
+! 5/14/2020 https://www.tube8.com
+www.tube8.com##.footer-stripe-wrapper-grey
+www.tube8.com###footer-content
+www.tube8.com###footer-text
+www.tube8.com###allComments
+www.tube8.com###top-getvip
+www.tube8.com###networkbar
+www.tube8.com###PornhubNetworkBar
+www.tube8.com##.lang-switch > a
+www.tube8.com##.lang-switch
+www.tube8.com###language-nav
+www.tube8.com##.orientation-switch
+www.tube8.com###orientation-nav
+www.tube8.com##.relative.logo-box
+www.tube8.com###top-upload
+www.tube8.com###btn_report > .icon-flag
+www.tube8.com###embedButton
+www.tube8.com##.underplayerBanner
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com###js-networkBar
+www.pornhub.com###js-toggleArrow
+www.pornhub.com###searchTypeSelected
+! 5/14/2020 https://chaturbate.com
+chaturbate.com###Xw
+chaturbate.com###Hp
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(2)
+! 5/18/2020 https://twitter.com
+twitter.com###banners
+twitter.com##.Banner--aboveNav.Banner
+! 5/19/2020 https://hangouts.google.com
+hangouts.google.com##.g-Ue-ad
+hangouts.google.com##.g-Ue-T-R > div
+! 5/19/2020 https://twitter.com
+twitter.com###tmf-settings
+twitter.com##div.fadeInRight.animated.tmf-ad:nth-of-type(1)
+twitter.com##.tmf-ads
+twitter.com##.modal-overlay
+twitter.com###tmf.tmf--show.tmf
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com###site-settings > .flag-us.flag-small
+www.xvideos.com##.flag-us.flag-small
+! 09/08/2020 https://www.xvideos.com
+www.xvideos.com##.big-buttons-sub
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4)
+chaturbate.com##span > div > table
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > [href="#"]
+chaturbate.com##a[href="#"]:nth-of-type(5)
+chaturbate.com##span > div > div > span:nth-of-type(2)
+chaturbate.com##span > div > div > span:nth-of-type(3)
+chaturbate.com##span > div
+chaturbate.com###hashtag_ticker > [href="/tag/feet/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pantyhose/"]
+chaturbate.com##[href="/tag/bdsm/"]
+chaturbate.com##[href="/tag/mistress/"]
+chaturbate.com###hashtag_ticker > [href="/tag/mature/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milf/"]
+chaturbate.com###hashtag_ticker > [href="/tag/hairy/"]
+chaturbate.com##[href="/tag/bbw/"]
+chaturbate.com###hashtag_ticker > [href="/tag/anal/"]
+chaturbate.com###hashtag_ticker > [href="/tag/squirt/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milk/"]
+chaturbate.com##[href="/tag/lesbian/"]
+chaturbate.com###hashtag_ticker > [href="/tag/bigcock/"]
+chaturbate.com###hashtag_ticker > [href="/tag/fuckmachine/"]
+! 2020-09-08 https://dicksucking.chaturbate.com
+dicksucking.chaturbate.com##[href="/tag/feet/c/"]
+dicksucking.chaturbate.com##[href="/tag/mistress/c/"]
+dicksucking.chaturbate.com##[href="/tag/milf/c/"]
+dicksucking.chaturbate.com##[href="/tag/anal/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbw/c/"]
+dicksucking.chaturbate.com##[href="/tag/squirt/c/"]
+dicksucking.chaturbate.com##[href="/tag/pregnant/c/"]
+dicksucking.chaturbate.com##[href="/tag/new/c/"]
+dicksucking.chaturbate.com##[href="/tag/bdsm/c/"]
+dicksucking.chaturbate.com##[href="/tag/pantyhose/c/"]
+dicksucking.chaturbate.com##[href="/tag/slave/c/"] 
+dicksucking.chaturbate.com##[href="/tag/strapon/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbc/c/"]
+dicksucking.chaturbate.com##[href="/tag/bigcock/c/"]
+dicksucking.chaturbate.com##[href="/tag/smoke/c/"]
+dicksucking.chaturbate.com##[href="/tag/daddy/c/"]
+dicksucking.chaturbate.com##[href="/tag/milk/c/"]
+dicksucking.chaturbate.com##[href="/tag/cum/c/"]
+dicksucking.chaturbate.com##[href="/tag/hairyarmpits/c/"]
+! 2020-09-08 https://adlock.com
+adlock.com##.banner_N
+adlock.com###banner_full
+! 2020-09-08 https://mega.nz
+mega.nz##.fm-dialog-overlay
+mega.nz##.achievements.registered.limited-bandwidth-dialog.fm-dialog > .centered-content.fm-dialog-body
+mega.nz##.ui-selectable.megaList.megaListContainer.grid-scrolling-table
+! 2020-09-08 https://meyerweb.com
+meyerweb.com##h1
+meyerweb.com###footer
+meyerweb.com##ul
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##[href="/tag/bdsm/c/"]
+chaturbate.com##[href="/tag/milk/c/"]
+chaturbate.com##[href="/tag/feet/c/"]
+chaturbate.com##[href="/tag/squirt/c/"]
+chaturbate.com##[href="/tag/mistress/c/"]
+chaturbate.com##[href="/tag/bbw/c/"]
+chaturbate.com##[href="/tag/ebony/c/"]
+chaturbate.com##[href="/tag/anal/c/"]
+chaturbate.com##[href="/tag/slave/c/"]
+chaturbate.com##[href="/tag/strapon/c/"]
+chaturbate.com###main > div > div:nth-of-type(6) > span
+chaturbate.com###main > div > div:nth-of-type(6) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(5) > span
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > span
+chaturbate.com##[href="/tag/chubby/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/daddy/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/slave/"]
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4) > div > div
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > a[href="#"]:nth-of-type(3)
+chaturbate.com##span:nth-of-type(2) > [href="/fanclub/join/honey_devildoll/"]
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##[href="/b/raepurbutt/"]
+chaturbate.com##div:nth-of-type(5) > [href="#"]
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.noselect.videoad-title-invideo.videoad-title
+www.xvideos.com###mobile-login-btn
+! 2020-09-08 https://duncantrussell.merchtable.com
+duncantrussell.merchtable.com###launcher-frame
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.verified.icf-check-circle.icon-f
+! 2020-12-10 https://hide.me
+hide.me##.livechat__label
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##div.js-livechatMain.livechat:nth-of-type(2)
+hide.me##.js-livechat.u-cursorpointer.livechat__bubble
+hide.me##div.js-livechatMain.livechat:nth-of-type(1)
+! 2021-01-30 https://www.3dnatives.com
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.footer_logo__2umvp > [href="/"]
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(1)
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(2)
+xmovies8.pw##.footer_description__1hrLr
+xmovies8.pw##.footer_copyright__3UFkA
+xmovies8.pw##[href="/termsofservice"]
+xmovies8.pw##[href="/policies"]
+xmovies8.pw##.footer_privacy__rtB45
+xmovies8.pw##.watch_content-tags__2tI5p > ul
+! 2021-01-30 https://new123movies.be
+new123movies.be##.clear_fix > div
+new123movies.be##.clear_fix > div
+new123movies.be##a.btn-success.btn:nth-of-type(2)
+new123movies.be##a.btn-success.btn > div
+new123movies.be##a.btn-success.btn
+new123movies.be##.main-detail.main-content > .pad
+! 2021-01-30 https://www.xvideos.com
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.xv-cams-header > p
+! 2021-01-30 https://xhamster.com
+xhamster.com##[src="https://static-lvlt.xhcdn.com/xh-desktop/images/common/footer/vf4ded6a4.rta.png"]
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.watch_social-buttons__3ty5_
+xmovies8.pw##button.watch_social-icon__6hVrK.react-share__ShareButton:nth-of-type(2)
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+##.clearfix.comments-container.comments-section > .width-wrap
+##.comments-wrap
+##.beta-preloader.content-container
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+##.clearfix.comments-container.comments-section > .width-wrap
+##.comments-wrap
+##.beta-preloader.content-container
+##.comments-list
+###comment-77295077 > .comment-info
+###comment-77295077 > .comment-info > .comment-body
+##.tooltip-nocache.verified-beta.xh-icon
+###comment-77295077 > .comment-info > .comment-body > .user-info
+##.footer-top-part
+##.earn-block > .square.black.xh-button
+##.earn-block
+##.square.black.xh-button
+##.footer-top-part
+##footer
+##footer > .width-wrap
+##.footer-bottom-part
+##div.column-40.footer-column:nth-of-type(3)
+##.rta
+##.comments-list
+###comment-81524187 > .user
+###comment-81524187 > .user > .small.avatar-container
+###comment-81524187 > .user > .small.avatar-container > .small.xh-avatar
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+##.clearfix.comments-container.comments-section > .width-wrap
+##.comments-wrap
+##.beta-preloader.content-container
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+##.clearfix.comments-container.comments-section > .width-wrap
+##.comments-wrap
+##.beta-preloader.content-container
+##.comments-list
+###comment-info
+##comment-info
+###comment-77295077 > .comment-info > .comment-body
+##.comment-info
+##.comment-body
+##.tooltip-nocache.verified-beta.xh-icon
+###comment-77295077 > .comment-info > .comment-body
+##.user-info
+##.footer-top-part
+##.earn-block > .square.black.xh-button
+##.earn-block
+##.square.black.xh-button
+##.footer-top-part
+##footer
+##footer > .width-wrap
+##.footer-bottom-part
+##div.column-40.footer-column:nth-of-type(3)
+##.rta
+###comment-81524187 > .user > .small.avatar-container > .small.xh-avatar
+###comment-81524187 > .user > .small.avatar-container
+###comment-81524187 > .user
+##.comments-list
+##.input-area
+##.xh-multiline-editable.textarea.comment-textarea
+##.my-comment
+##.clearfix.comments-container.comments-section > .width-wrap
+##.main-wrap > div.width-wrap
+##.clearfix.comments-container.comments-section
+##.xh-dropdown.lang-geo-picker-container
+##.darkest.trigger.picker-trigger
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com##.thread-node-metadata
+www.xvideos.com##.thread-node-content > .thread-node-poster
+www.xvideos.com##.thread-video-comments.x-thread
+www.xvideos.com###tabComments
+www.xvideos.com##.botLinks
+www.xvideos.com##.mobile-hide.slogan
+www.xvideos.com##footer
+www.xvideos.com###chat-window.chat-hidden
+www.xvideos.com##.chat-title
+www.xvideos.com##.mobile-hide.text-danger
+www.xvideos.com###site-logo-link
+www.xvideos.com###site-logo-link.logo
+www.xvideos.com###site-logo-link.logo
+www.xvideos.com###site-logo-svg
+www.xvideos.com###site-logo.no-blur
+www.xvideos.com###site-logo
+! 2/15/2020 http://crackstreams.com
+crackstreams.com##center:nth-of-type(3)
+! 3/13/2020 https://moviegaga.to
+moviegaga.to###share-this-movie
+! 3/13/2020 https://yesmovies.ag
+yesmovies.ag##cloudflare-app
+! 3/13/2020 https://vidoza.net
+vidoza.net##footer
+! 4/15/2020 arrests.org
+! 4/15/2020 https://florida.arrests.org
+florida.arrests.org##footer
+! 4/16/2020 https://www.instantcheckmate.com
+www.instantcheckmate.com###welcome-back
+www.instantcheckmate.com###unlock-offer
+! 4/28/2020 https://www.instagram.com
+www.instagram.com##.XX4wn > div
+! 5/10/2020 https://www.netflix.com
+www.netflix.com###patreon-container
+www.netflix.com###patreon-link
+www.netflix.com###patreon-container
+! 5/13/2020 https://community.spiceworks.com
+community.spiceworks.com##.join-alt-modal--six-second.sui-modal_content—overflow.sui-modal_content.join-login-container_modal.join-login-container
+community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
+! 5/13/2020 https://www.bruceclay.com
+www.bruceclay.com##.header-container
+www.bruceclay.com##[href="/traffic"]
+! 5/13/2020 https://www.lastpass.com
+www.lastpass.com##.lp-popup.lp-pg-popup
+! 5/13/2020 https://www.thecinemaholic.com
+www.thecinemaholic.com###header
+www.thecinemaholic.com###footer
+www.thecinemaholic.com##.gridlove-related
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.footer-title
+www.pornhub.com##.footer
+www.pornhub.com##.js_dropdownBound.languageWrapper
+www.pornhub.com###RTAImage
+www.pornhub.com##.rta
+www.pornhub.com##[href="/information#rating"]
+www.pornhub.com##.logoFooterWrapper
+www.pornhub.com##.fanClubBox.contentContainer
+www.pornhub.com##.translateFix.spriteProfileIcons.blockAndReport.sectionWrapper
+www.pornhub.com##.hd-thumbnail
+www.pornhub.com##.abovePlayer
+www.pornhub.com##.abAlertInner
+www.pornhub.com###abAlert
+! 5/13/2020 https://ip8.com
+ip8.com###fc_widget
+ip8.com##.navbar-brand
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.alpha.dropdownTrigger.notificationIcon
+www.pornhub.com###notificationIcons
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##footer
+jp.spankbang.com##.footer_bbm
+! 5/13/2020 https://m.spankbang.com
+##.tab_comments
+m.spankbang.com##[href^="/category/toy/"]
+m.spankbang.com###categories > [href^="/category/squirt/"]
+m.spankbang.com##.iZymxx.BlackLabelFooter__FooterContainer-sc-2qn5y4-0
+! 5/13/2020 https://chaturbate.com
+##[href="/male-cams/"]
+##.logo-zone
+##[href="/trans-cams/"]
+##[href="/tag/pregnant/f/"]
+##[href="/tag/pantyhose/f/"]
+##[href="/tag/feet/f/"]
+##[href="/tag/squirt/f/"]
+##[href="/tag/mature/f/"]
+chaturbate.com###footer-holder
+chaturbate.com##[href="/tipping/free_tokens/"]
+chaturbate.com###qu > [href="#"]
+chaturbate.com##.clearfix.section
+chaturbate.com##li:nth-of-type(5) > .cf_div_theme_dark
+chaturbate.com##[href^="/accounts/register/"]
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(4)
+chaturbate.com###qu > div:nth-of-type(5)
+chaturbate.com###qu > span
+chaturbate.com##div.tag_row:nth-of-type(30)
+chaturbate.com##div.tag_row:nth-of-type(29)
+chaturbate.com##[href="/andreja_pejic/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##[href^="/category/cam/"]
+jp.spankbang.com##[href^="/category/gay/"]
+jp.spankbang.com##[href^="/category/fisting/"] > span > font > font
+jp.spankbang.com##[href^="/category/fisting/"]
+jp.spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+spankbang.com##[href^="/category/cam/"]
+spankbang.com##[href^="/category/gay/"]
+spankbang.com##[href^="/category/fisting/"] > span > font > font
+spankbang.com##[href^="/category/fisting/"]
+spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+##[href^="/category/cam/"]
+##[href^="/category/gay/"]
+##[href^="/category/fisting/"] > span > font > font
+##[href^="/category/fisting/"]
+##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##[href="/live/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##.categories > [href^="/category/bondage/"]
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##[href^="/category/shemale/"]
+m.spankbang.com##[href^="/category/hentai/"]
+m.spankbang.com##[href^="/category/fetish/"]
+m.spankbang.com###categories > [href^="/category/bondage/"]
+m.spankbang.com##[href^="/category/big+dick/"]
+m.spankbang.com##[href^="/category/anal/"]
+m.spankbang.com##[href^="/category/bbw/"] > .cover
+m.spankbang.com##[href^="/category/bbw/"]
+m.spankbang.com##[href^="/category/hardcore/"]
+m.spankbang.com##.twitter-follow-button
+m.spankbang.com##a.k:nth-of-type(36)
+m.spankbang.com##.upload
+m.spankbang.com##.tabs > .cf_div_theme_dark
+m.spankbang.com##.tabs
+m.spankbang.com##.fl
+m.spankbang.com##.vjs-loading-spinner
+m.spankbang.com##.tabs > .cf_div_theme_dark.clutterFree_noIcon.clutterFree_existingDuplicate
+m.spankbang.com##.tabs
+m.spankbang.com##.i_flag.i_svg
+m.spankbang.com##.tab_similar > h2
+m.spankbang.com##.fl
+m.spankbang.com##.more_menu > .badge
+m.spankbang.com##.tab_comments
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="https://cbswag.com"]
+chaturbate.com##[href="/tag/hairy/c/"]
+chaturbate.com##[href="/tag/pregnant/couple/"]
+chaturbate.com##[href="/tag/bdsm/couple/"]
+chaturbate.com##.tag > [href="/tag/squirt/couple/"]
+chaturbate.com##[href="/tag/bbw/couple/"]
+chaturbate.com##[href="/tag/milk/couple/"]
+chaturbate.com##[href="/tag/mature/couple/"]
+chaturbate.com##.tag > [href="/tag/feet/couple/"]
+chaturbate.com##[href="/tag/slave/couple/"]
+chaturbate.com##[href="/tag/pantyhose/couple/"]
+chaturbate.com##[href="/tag/mistress/couple/"]
+chaturbate.com##[href="/tag/smoke/couple/"]
+chaturbate.com##[href="/tag/strapon/couple/"]
+chaturbate.com##[href="/tag/femdom/couple/"]
+chaturbate.com##[href="/tag/bigclit/couple/"]
+chaturbate.com##[href="/tag/fuckmachine/couple/"]
+chaturbate.com##[href="/tag/fetish/couple/"]
+chaturbate.com##[href="/tag/heels/couple/"]
+chaturbate.com##[href="/tag/humiliation/couple/"]
+chaturbate.com##[href="/tag/submissive/couple/"]
+chaturbate.com##[href="/tag/pegging/couple/"]
+chaturbate.com##[href="/tag/domi/couple/"]
+chaturbate.com##[href="/tags/trans/"]
+chaturbate.com##[href="/tags/male/"]
+! 5/14/2020 chaturbate.com
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(1)
+chaturbate.com##[src="https://camo.stream.highwebmedia.com/77a82cc70562bd988fc7fa411d9b4d01c66557c5/687474703a2f2f696d616765732e646d63612e636f6d2f4261646765732f646d63615f70726f7465637465645f736d6c5f3132306c2e706e67"]
+chaturbate.com##[href="/my_collection/photo_videos/"]
+chaturbate.com##[href="/my_collection/private_shows/"]
+chaturbate.com##.sub-nav
+! 5/14/2020 https://www.xvideos.com
+www.xvideos.com##.thumb-inside > .video-hd-mark
+www.xvideos.com##.thumb-inside > .video-sd-mark
+www.xvideos.com###nav-trends > .mobile-hide
+! 5/14/2020 https://info.xvideos.com
+info.xvideos.com###section-shortcuts > ul > li:nth-of-type(4)
+info.xvideos.com###section-support > ul > li:nth-of-type(2)
+info.xvideos.com###section-support
+info.xvideos.com###footer
+info.xvideos.com###section-legal_stuff > ul
+info.xvideos.com###section-legal_stuff > .title
+info.xvideos.com###section-external_links > ul
+info.xvideos.com###section-external_links > .title
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pregnant/"]
+chaturbate.com##.thumbnail_label_exhibitionist.thumbnail_label
+chaturbate.com##.thumbnail_label_c.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd_plus.thumbnail_label
+chaturbate.com##.thumbnail_label_c_new.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd.thumbnail_label
+chaturbate.com##div:nth-of-type(6) > [href="/spy-on-cams/"]
+chaturbate.com###Sp > div:nth-of-type(1)
+chaturbate.com###bt > div:nth-of-type(2)
+chaturbate.com###Lw > div:nth-of-type(2)
+chaturbate.com##[href="https://www.surveymonkey.com/r/6NS9RJ5"]
+chaturbate.com###Au > div:nth-of-type(5) > span
+chaturbate.com##.tip_shell
+chaturbate.com##.headline > .buttons > li:nth-of-type(4) > .nooverlay
+chaturbate.com##li:nth-of-type(3) > .nooverlay
+chaturbate.com##.headline > .buttons > li:nth-of-type(2) > .nooverlay
+chaturbate.com##.headline > .buttons > .active > .nooverlay
+chaturbate.com##.bio
+chaturbate.com###model_rating_ctrl_dim
+chaturbate.com###report_popup_link
+chaturbate.com##.video-box > .title
+chaturbate.com###user-list
+chaturbate.com###send-tip
+chaturbate.com###Nu > span:nth-of-type(9)
+chaturbate.com###chat-btn
+chaturbate.com###more-rooms
+chaturbate.com##span > p:nth-of-type(1)
+chaturbate.com###Lw > div:nth-of-type(3)
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com##.sectionWrapper > .sectionWrapper
+www.pornhub.com##.footerContentWrapper
+www.pornhub.com###headerUpgradePremiumBtn
+www.pornhub.com###under-player-comments
+www.pornhub.com###menuItem4
+www.pornhub.com###menuItem6
+www.pornhub.com###menuItem7
+www.pornhub.com###menuItem5
+www.pornhub.com###p2vVideosVPage
+www.pornhub.com###v163943421 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com###v215477231 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com##.fakeClick
+www.pornhub.com###searchTypeSelected > .video
+! 5/14/2020 tube8.com
+! 5/14/2020 https://www.tube8.com
+www.tube8.com##.footer-stripe-wrapper-grey
+www.tube8.com###footer-content
+www.tube8.com###footer-text
+www.tube8.com###allComments
+www.tube8.com###top-getvip
+www.tube8.com###networkbar
+www.tube8.com###PornhubNetworkBar
+www.tube8.com##.lang-switch > a
+www.tube8.com##.lang-switch
+www.tube8.com###language-nav
+www.tube8.com##.orientation-switch
+www.tube8.com###orientation-nav
+www.tube8.com##.relative.logo-box
+www.tube8.com###top-upload
+www.tube8.com###btn_report > .icon-flag
+www.tube8.com###embedButton
+www.tube8.com##.underplayerBanner
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com###js-networkBar
+www.pornhub.com###js-toggleArrow
+www.pornhub.com###searchTypeSelected
+! 5/14/2020 https://chaturbate.com
+chaturbate.com###Xw
+chaturbate.com###Hp
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(2)
+! 5/18/2020 https://twitter.com
+twitter.com###banners
+twitter.com##.Banner--aboveNav.Banner
+! 5/19/2020 https://hangouts.google.com
+hangouts.google.com##.g-Ue-ad
+hangouts.google.com##.g-Ue-T-R > div
+! 5/19/2020 https://twitter.com
+twitter.com###tmf-settings
+twitter.com##div.fadeInRight.animated.tmf-ad:nth-of-type(1)
+twitter.com##.tmf-ads
+twitter.com##.modal-overlay
+twitter.com###tmf.tmf--show.tmf
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com###site-settings > .flag-us.flag-small
+www.xvideos.com##.flag-us.flag-small
+! 09/08/2020 https://www.xvideos.com
+www.xvideos.com##.big-buttons-sub
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4)
+chaturbate.com##span > div > table
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > [href="#"]
+chaturbate.com##a[href="#"]:nth-of-type(5)
+chaturbate.com##span > div > div > span:nth-of-type(2)
+chaturbate.com##span > div > div > span:nth-of-type(3)
+chaturbate.com##span > div
+chaturbate.com###hashtag_ticker > [href="/tag/feet/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pantyhose/"]
+chaturbate.com##[href="/tag/bdsm/"]
+chaturbate.com##[href="/tag/mistress/"]
+chaturbate.com###hashtag_ticker > [href="/tag/mature/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milf/"]
+chaturbate.com###hashtag_ticker > [href="/tag/hairy/"]
+chaturbate.com##[href="/tag/bbw/"]
+chaturbate.com###hashtag_ticker > [href="/tag/anal/"]
+chaturbate.com###hashtag_ticker > [href="/tag/squirt/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milk/"]
+chaturbate.com##[href="/tag/lesbian/"]
+chaturbate.com###hashtag_ticker > [href="/tag/bigcock/"]
+chaturbate.com###hashtag_ticker > [href="/tag/fuckmachine/"]
+! 2020-09-08 https://dicksucking.chaturbate.com
+dicksucking.chaturbate.com##[href="/tag/feet/c/"]
+dicksucking.chaturbate.com##[href="/tag/mistress/c/"]
+dicksucking.chaturbate.com##[href="/tag/milf/c/"]
+dicksucking.chaturbate.com##[href="/tag/anal/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbw/c/"]
+dicksucking.chaturbate.com##[href="/tag/squirt/c/"]
+dicksucking.chaturbate.com##[href="/tag/pregnant/c/"]
+dicksucking.chaturbate.com##[href="/tag/new/c/"]
+dicksucking.chaturbate.com##[href="/tag/bdsm/c/"]
+dicksucking.chaturbate.com##[href="/tag/pantyhose/c/"]
+dicksucking.chaturbate.com##[href="/tag/slave/c/"] 
+dicksucking.chaturbate.com##[href="/tag/strapon/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbc/c/"]
+dicksucking.chaturbate.com##[href="/tag/bigcock/c/"]
+dicksucking.chaturbate.com##[href="/tag/smoke/c/"]
+dicksucking.chaturbate.com##[href="/tag/daddy/c/"]
+dicksucking.chaturbate.com##[href="/tag/milk/c/"]
+dicksucking.chaturbate.com##[href="/tag/cum/c/"]
+dicksucking.chaturbate.com##[href="/tag/hairyarmpits/c/"]
+! 2020-09-08 https://adlock.com
+adlock.com##.banner_N
+adlock.com###banner_full
+! 2020-09-08 https://mega.nz
+mega.nz##.fm-dialog-overlay
+mega.nz##.achievements.registered.limited-bandwidth-dialog.fm-dialog > .centered-content.fm-dialog-body
+mega.nz##.ui-selectable.megaList.megaListContainer.grid-scrolling-table
+! 2020-09-08 https://meyerweb.com
+meyerweb.com##h1
+meyerweb.com###footer
+meyerweb.com##ul
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##[href="/tag/bdsm/c/"]
+chaturbate.com##[href="/tag/milk/c/"]
+chaturbate.com##[href="/tag/feet/c/"]
+chaturbate.com##[href="/tag/squirt/c/"]
+chaturbate.com##[href="/tag/mistress/c/"]
+chaturbate.com##[href="/tag/bbw/c/"]
+chaturbate.com##[href="/tag/ebony/c/"]
+chaturbate.com##[href="/tag/anal/c/"]
+chaturbate.com##[href="/tag/slave/c/"]
+chaturbate.com##[href="/tag/strapon/c/"]
+chaturbate.com###main > div > div:nth-of-type(6) > span
+chaturbate.com###main > div > div:nth-of-type(6) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(5) > span
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > span
+chaturbate.com##[href="/tag/chubby/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/daddy/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/slave/"]
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4) > div > div
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > a[href="#"]:nth-of-type(3)
+chaturbate.com##span:nth-of-type(2) > [href="/fanclub/join/honey_devildoll/"]
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##[href="/b/raepurbutt/"]
+chaturbate.com##div:nth-of-type(5) > [href="#"]
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.noselect.videoad-title-invideo.videoad-title
+www.xvideos.com###mobile-login-btn
+! 2020-09-08 https://duncantrussell.merchtable.com
+duncantrussell.merchtable.com###launcher-frame
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.verified.icf-check-circle.icon-f
+! 2020-12-10 https://hide.me
+hide.me##.livechat__label
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##div.js-livechatMain.livechat:nth-of-type(2)
+hide.me##.js-livechat.u-cursorpointer.livechat__bubble
+hide.me##div.js-livechatMain.livechat:nth-of-type(1)
+! 2021-01-30 https://www.3dnatives.com
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.footer_logo__2umvp > [href="/"]
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(1)
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(2)
+xmovies8.pw##.footer_description__1hrLr
+xmovies8.pw##.footer_copyright__3UFkA
+xmovies8.pw##[href="/termsofservice"]
+xmovies8.pw##[href="/policies"]
+xmovies8.pw##.footer_privacy__rtB45
+xmovies8.pw##.watch_content-tags__2tI5p > ul
+! 2021-01-30 https://new123movies.be
+new123movies.be##.clear_fix > div
+new123movies.be##.clear_fix > div
+new123movies.be##a.btn-success.btn:nth-of-type(2)
+new123movies.be##a.btn-success.btn > div
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com##.thread-node-metadata
+www.xvideos.com##.thread-node-content > .thread-node-poster
+www.xvideos.com##.thread-video-comments.x-thread
+www.xvideos.com###tabComments
+www.xvideos.com##.botLinks
+www.xvideos.com##.mobile-hide.slogan
+www.xvideos.com##footer
+www.xvideos.com###chat-window.chat-hidden
+www.xvideos.com##.chat-title
+www.xvideos.com##.mobile-hide.text-danger
+www.xvideos.com###site-logo-link
+www.xvideos.com###site-logo-link.logo
+www.xvideos.com###site-logo-link.logo
+www.xvideos.com###site-logo-svg
+www.xvideos.com###site-logo.no-blur
+www.xvideos.com###site-logo
+! 2/15/2020 http://crackstreams.com
+crackstreams.com##center:nth-of-type(3)
+! 3/13/2020 https://moviegaga.to
+moviegaga.to###share-this-movie
+! 3/13/2020 https://yesmovies.ag
+yesmovies.ag##cloudflare-app
+! 3/13/2020 https://vidoza.net
+vidoza.net##footer
+! 4/15/2020 arrests.org
+! 4/15/2020 https://florida.arrests.org
+florida.arrests.org##footer
+! 4/16/2020 https://www.instantcheckmate.com
+www.instantcheckmate.com###welcome-back
+www.instantcheckmate.com###unlock-offer
+! 4/28/2020 https://www.instagram.com
+www.instagram.com##.XX4wn > div
+! 5/10/2020 https://www.netflix.com
+www.netflix.com###patreon-container
+www.netflix.com###patreon-link
+www.netflix.com###patreon-container
+! 5/13/2020 https://community.spiceworks.com
+community.spiceworks.com##.join-alt-modal--six-second.sui-modal_content—overflow.sui-modal_content.join-login-container_modal.join-login-container
+community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
+! 5/13/2020 https://www.bruceclay.com
+www.bruceclay.com##.header-container
+www.bruceclay.com##[href="/traffic"]
+! 5/13/2020 https://www.lastpass.com
+www.lastpass.com##.lp-popup.lp-pg-popup
+! 5/13/2020 https://www.thecinemaholic.com
+www.thecinemaholic.com###header
+www.thecinemaholic.com###footer
+www.thecinemaholic.com##.gridlove-related
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.footer-title
+www.pornhub.com##.footer
+www.pornhub.com##.js_dropdownBound.languageWrapper
+www.pornhub.com###RTAImage
+www.pornhub.com##.rta
+www.pornhub.com##[href="/information#rating"]
+www.pornhub.com##.logoFooterWrapper
+www.pornhub.com##.fanClubBox.contentContainer
+www.pornhub.com##.translateFix.spriteProfileIcons.blockAndReport.sectionWrapper
+www.pornhub.com##.hd-thumbnail
+www.pornhub.com##.abovePlayer
+www.pornhub.com##.abAlertInner
+www.pornhub.com###abAlert
+! 5/13/2020 https://ip8.com
+ip8.com###fc_widget
+ip8.com##.navbar-brand
+! 5/13/2020 https://www.pornhub.com
+www.pornhub.com##.alpha.dropdownTrigger.notificationIcon
+www.pornhub.com###notificationIcons
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##footer
+jp.spankbang.com##.footer_bbm
+! 5/13/2020 https://m.spankbang.com
+##.tab_comments
+m.spankbang.com##[href^="/category/toy/"]
+m.spankbang.com###categories > [href^="/category/squirt/"]
+m.spankbang.com##.iZymxx.BlackLabelFooter__FooterContainer-sc-2qn5y4-0
+! 5/13/2020 https://chaturbate.com
+##[href="/male-cams/"]
+##.logo-zone
+##[href="/trans-cams/"]
+##[href="/tag/pregnant/f/"]
+##[href="/tag/pantyhose/f/"]
+##[href="/tag/feet/f/"]
+##[href="/tag/squirt/f/"]
+##[href="/tag/mature/f/"]
+chaturbate.com###footer-holder
+chaturbate.com##[href="/tipping/free_tokens/"]
+chaturbate.com###qu > [href="#"]
+chaturbate.com##.clearfix.section
+chaturbate.com##li:nth-of-type(5) > .cf_div_theme_dark
+chaturbate.com##[href^="/accounts/register/"]
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(4)
+chaturbate.com###qu > div:nth-of-type(5)
+chaturbate.com###qu > span
+chaturbate.com##div.tag_row:nth-of-type(30)
+chaturbate.com##div.tag_row:nth-of-type(29)
+chaturbate.com##[href="/andreja_pejic/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##[href^="/category/cam/"]
+jp.spankbang.com##[href^="/category/gay/"]
+jp.spankbang.com##[href^="/category/fisting/"] > span > font > font
+jp.spankbang.com##[href^="/category/fisting/"]
+jp.spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+spankbang.com##[href^="/category/cam/"]
+spankbang.com##[href^="/category/gay/"]
+spankbang.com##[href^="/category/fisting/"] > span > font > font
+spankbang.com##[href^="/category/fisting/"]
+spankbang.com##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+##[href^="/category/cam/"]
+##[href^="/category/gay/"]
+##[href^="/category/fisting/"] > span > font > font
+##[href^="/category/fisting/"]
+##[href^="/category/gay/"]
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://jp.spankbang.com
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##a[href="#"]:nth-of-type(3)
+m.spankbang.com##[href="/live/"]
+! 5/13/2020 https://jp.spankbang.com
+jp.spankbang.com##.categories > [href^="/category/bondage/"]
+! 5/13/2020 https://m.spankbang.com
+m.spankbang.com##[href^="/category/shemale/"]
+m.spankbang.com##[href^="/category/hentai/"]
+m.spankbang.com##[href^="/category/fetish/"]
+m.spankbang.com###categories > [href^="/category/bondage/"]
+m.spankbang.com##[href^="/category/big+dick/"]
+m.spankbang.com##[href^="/category/anal/"]
+m.spankbang.com##[href^="/category/bbw/"] > .cover
+m.spankbang.com##[href^="/category/bbw/"]
+m.spankbang.com##[href^="/category/hardcore/"]
+m.spankbang.com##.twitter-follow-button
+m.spankbang.com##a.k:nth-of-type(36)
+m.spankbang.com##.upload
+m.spankbang.com##.tabs > .cf_div_theme_dark
+m.spankbang.com##.tabs
+m.spankbang.com##.fl
+m.spankbang.com##.vjs-loading-spinner
+m.spankbang.com##.tabs > .cf_div_theme_dark.clutterFree_noIcon.clutterFree_existingDuplicate
+m.spankbang.com##.tabs
+m.spankbang.com##.i_flag.i_svg
+m.spankbang.com##.tab_similar > h2
+m.spankbang.com##.fl
+m.spankbang.com##.more_menu > .badge
+m.spankbang.com##.tab_comments
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="https://cbswag.com"]
+chaturbate.com##[href="/tag/hairy/c/"]
+chaturbate.com##[href="/tag/pregnant/couple/"]
+chaturbate.com##[href="/tag/bdsm/couple/"]
+chaturbate.com##.tag > [href="/tag/squirt/couple/"]
+chaturbate.com##[href="/tag/bbw/couple/"]
+chaturbate.com##[href="/tag/milk/couple/"]
+chaturbate.com##[href="/tag/mature/couple/"]
+chaturbate.com##.tag > [href="/tag/feet/couple/"]
+chaturbate.com##[href="/tag/slave/couple/"]
+chaturbate.com##[href="/tag/pantyhose/couple/"]
+chaturbate.com##[href="/tag/mistress/couple/"]
+chaturbate.com##[href="/tag/smoke/couple/"]
+chaturbate.com##[href="/tag/strapon/couple/"]
+chaturbate.com##[href="/tag/femdom/couple/"]
+chaturbate.com##[href="/tag/bigclit/couple/"]
+chaturbate.com##[href="/tag/fuckmachine/couple/"]
+chaturbate.com##[href="/tag/fetish/couple/"]
+chaturbate.com##[href="/tag/heels/couple/"]
+chaturbate.com##[href="/tag/humiliation/couple/"]
+chaturbate.com##[href="/tag/submissive/couple/"]
+chaturbate.com##[href="/tag/pegging/couple/"]
+chaturbate.com##[href="/tag/domi/couple/"]
+chaturbate.com##[href="/tags/trans/"]
+chaturbate.com##[href="/tags/male/"]
+! 5/14/2020 chaturbate.com
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(1)
+chaturbate.com##[src="https://camo.stream.highwebmedia.com/77a82cc70562bd988fc7fa411d9b4d01c66557c5/687474703a2f2f696d616765732e646d63612e636f6d2f4261646765732f646d63615f70726f7465637465645f736d6c5f3132306c2e706e67"]
+chaturbate.com##[href="/my_collection/photo_videos/"]
+chaturbate.com##[href="/my_collection/private_shows/"]
+chaturbate.com##.sub-nav
+! 5/14/2020 https://www.xvideos.com
+www.xvideos.com##.thumb-inside > .video-hd-mark
+www.xvideos.com##.thumb-inside > .video-sd-mark
+www.xvideos.com###nav-trends > .mobile-hide
+! 5/14/2020 https://info.xvideos.com
+info.xvideos.com###section-shortcuts > ul > li:nth-of-type(4)
+info.xvideos.com###section-support > ul > li:nth-of-type(2)
+info.xvideos.com###section-support
+info.xvideos.com###footer
+info.xvideos.com###section-legal_stuff > ul
+info.xvideos.com###section-legal_stuff > .title
+info.xvideos.com###section-external_links > ul
+info.xvideos.com###section-external_links > .title
+! 5/14/2020 https://chaturbate.com
+chaturbate.com##[href="/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pregnant/"]
+chaturbate.com##.thumbnail_label_exhibitionist.thumbnail_label
+chaturbate.com##.thumbnail_label_c.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd_plus.thumbnail_label
+chaturbate.com##.thumbnail_label_c_new.thumbnail_label
+chaturbate.com##.thumbnail_label_c_hd.thumbnail_label
+chaturbate.com##div:nth-of-type(6) > [href="/spy-on-cams/"]
+chaturbate.com###Sp > div:nth-of-type(1)
+chaturbate.com###bt > div:nth-of-type(2)
+chaturbate.com###Lw > div:nth-of-type(2)
+chaturbate.com##[href="https://www.surveymonkey.com/r/6NS9RJ5"]
+chaturbate.com###Au > div:nth-of-type(5) > span
+chaturbate.com##.tip_shell
+chaturbate.com##.headline > .buttons > li:nth-of-type(4) > .nooverlay
+chaturbate.com##li:nth-of-type(3) > .nooverlay
+chaturbate.com##.headline > .buttons > li:nth-of-type(2) > .nooverlay
+chaturbate.com##.headline > .buttons > .active > .nooverlay
+chaturbate.com##.bio
+chaturbate.com###model_rating_ctrl_dim
+chaturbate.com###report_popup_link
+chaturbate.com##.video-box > .title
+chaturbate.com###user-list
+chaturbate.com###send-tip
+chaturbate.com###Nu > span:nth-of-type(9)
+chaturbate.com###chat-btn
+chaturbate.com###more-rooms
+chaturbate.com##span > p:nth-of-type(1)
+chaturbate.com###Lw > div:nth-of-type(3)
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com##.sectionWrapper > .sectionWrapper
+www.pornhub.com##.footerContentWrapper
+www.pornhub.com###headerUpgradePremiumBtn
+www.pornhub.com###under-player-comments
+www.pornhub.com###menuItem4
+www.pornhub.com###menuItem6
+www.pornhub.com###menuItem7
+www.pornhub.com###menuItem5
+www.pornhub.com###p2vVideosVPage
+www.pornhub.com###v163943421 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com###v215477231 > .wrap > .phimage > .img.js-linkVideoThumb.linkVideoThumb.videoPreviewBg.fadeUp.fade > .js-noFade.marker-overlays > .tooltipTrig.cl.premiumIcon
+www.pornhub.com##.fakeClick
+www.pornhub.com###searchTypeSelected > .video
+! 5/14/2020 tube8.com
+! 5/14/2020 https://www.tube8.com
+www.tube8.com##.footer-stripe-wrapper-grey
+www.tube8.com###footer-content
+www.tube8.com###footer-text
+www.tube8.com###allComments
+www.tube8.com###top-getvip
+www.tube8.com###networkbar
+www.tube8.com###PornhubNetworkBar
+www.tube8.com##.lang-switch > a
+www.tube8.com##.lang-switch
+www.tube8.com###language-nav
+www.tube8.com##.orientation-switch
+www.tube8.com###orientation-nav
+www.tube8.com##.relative.logo-box
+www.tube8.com###top-upload
+www.tube8.com###btn_report > .icon-flag
+www.tube8.com###embedButton
+www.tube8.com##.underplayerBanner
+! 5/14/2020 https://www.pornhub.com
+www.pornhub.com###js-networkBar
+www.pornhub.com###js-toggleArrow
+www.pornhub.com###searchTypeSelected
+! 5/14/2020 https://chaturbate.com
+chaturbate.com###Xw
+chaturbate.com###Hp
+chaturbate.com##a[href^="/external_link/"]:nth-of-type(2)
+! 5/18/2020 https://twitter.com
+twitter.com###banners
+twitter.com##.Banner--aboveNav.Banner
+! 5/19/2020 https://hangouts.google.com
+hangouts.google.com##.g-Ue-ad
+hangouts.google.com##.g-Ue-T-R > div
+! 5/19/2020 https://twitter.com
+twitter.com###tmf-settings
+twitter.com##div.fadeInRight.animated.tmf-ad:nth-of-type(1)
+twitter.com##.tmf-ads
+twitter.com##.modal-overlay
+twitter.com###tmf.tmf--show.tmf
+! 08/08/2020 https://www.xvideos.com
+www.xvideos.com###site-settings > .flag-us.flag-small
+www.xvideos.com##.flag-us.flag-small
+! 09/08/2020 https://www.xvideos.com
+www.xvideos.com##.big-buttons-sub
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4)
+chaturbate.com##span > div > table
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > [href="#"]
+chaturbate.com##a[href="#"]:nth-of-type(5)
+chaturbate.com##span > div > div > span:nth-of-type(2)
+chaturbate.com##span > div > div > span:nth-of-type(3)
+chaturbate.com##span > div
+chaturbate.com###hashtag_ticker > [href="/tag/feet/"]
+chaturbate.com###hashtag_ticker > [href="/tag/pantyhose/"]
+chaturbate.com##[href="/tag/bdsm/"]
+chaturbate.com##[href="/tag/mistress/"]
+chaturbate.com###hashtag_ticker > [href="/tag/mature/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milf/"]
+chaturbate.com###hashtag_ticker > [href="/tag/hairy/"]
+chaturbate.com##[href="/tag/bbw/"]
+chaturbate.com###hashtag_ticker > [href="/tag/anal/"]
+chaturbate.com###hashtag_ticker > [href="/tag/squirt/"]
+chaturbate.com###hashtag_ticker > [href="/tag/milk/"]
+chaturbate.com##[href="/tag/lesbian/"]
+chaturbate.com###hashtag_ticker > [href="/tag/bigcock/"]
+chaturbate.com###hashtag_ticker > [href="/tag/fuckmachine/"]
+! 2020-09-08 https://dicksucking.chaturbate.com
+dicksucking.chaturbate.com##[href="/tag/feet/c/"]
+dicksucking.chaturbate.com##[href="/tag/mistress/c/"]
+dicksucking.chaturbate.com##[href="/tag/milf/c/"]
+dicksucking.chaturbate.com##[href="/tag/anal/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbw/c/"]
+dicksucking.chaturbate.com##[href="/tag/squirt/c/"]
+dicksucking.chaturbate.com##[href="/tag/pregnant/c/"]
+dicksucking.chaturbate.com##[href="/tag/new/c/"]
+dicksucking.chaturbate.com##[href="/tag/bdsm/c/"]
+dicksucking.chaturbate.com##[href="/tag/pantyhose/c/"]
+dicksucking.chaturbate.com##[href="/tag/slave/c/"] 
+dicksucking.chaturbate.com##[href="/tag/strapon/c/"]
+dicksucking.chaturbate.com##[href="/tag/bbc/c/"]
+dicksucking.chaturbate.com##[href="/tag/bigcock/c/"]
+dicksucking.chaturbate.com##[href="/tag/smoke/c/"]
+dicksucking.chaturbate.com##[href="/tag/daddy/c/"]
+dicksucking.chaturbate.com##[href="/tag/milk/c/"]
+dicksucking.chaturbate.com##[href="/tag/cum/c/"]
+dicksucking.chaturbate.com##[href="/tag/hairyarmpits/c/"]
+! 2020-09-08 https://adlock.com
+adlock.com##.banner_N
+adlock.com###banner_full
+! 2020-09-08 https://mega.nz
+mega.nz##.fm-dialog-overlay
+mega.nz##.achievements.registered.limited-bandwidth-dialog.fm-dialog > .centered-content.fm-dialog-body
+mega.nz##.ui-selectable.megaList.megaListContainer.grid-scrolling-table
+! 2020-09-08 https://meyerweb.com
+meyerweb.com##h1
+meyerweb.com###footer
+meyerweb.com##ul
+! 2020-09-08 https://chaturbate.com
+chaturbate.com##[href="/tag/bdsm/c/"]
+chaturbate.com##[href="/tag/milk/c/"]
+chaturbate.com##[href="/tag/feet/c/"]
+chaturbate.com##[href="/tag/squirt/c/"]
+chaturbate.com##[href="/tag/mistress/c/"]
+chaturbate.com##[href="/tag/bbw/c/"]
+chaturbate.com##[href="/tag/ebony/c/"]
+chaturbate.com##[href="/tag/anal/c/"]
+chaturbate.com##[href="/tag/slave/c/"]
+chaturbate.com##[href="/tag/strapon/c/"]
+chaturbate.com###main > div > div:nth-of-type(6) > span
+chaturbate.com###main > div > div:nth-of-type(6) > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(5) > span
+chaturbate.com##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > span
+chaturbate.com##[href="/tag/chubby/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/daddy/"]
+chaturbate.com##div#hashtag_ticker:nth-of-type(1) > [href="/tag/slave/"]
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4) > div > div
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(4)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1)
+chaturbate.com##.photovideos-container > div > div:nth-of-type(1)
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > a[href="#"]:nth-of-type(3)
+chaturbate.com##span:nth-of-type(2) > [href="/fanclub/join/honey_devildoll/"]
+chaturbate.com##div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(3)
+chaturbate.com##[href="/b/raepurbutt/"]
+chaturbate.com##div:nth-of-type(5) > [href="#"]
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.noselect.videoad-title-invideo.videoad-title
+www.xvideos.com###mobile-login-btn
+! 2020-09-08 https://duncantrussell.merchtable.com
+duncantrussell.merchtable.com###launcher-frame
+! 2020-09-08 https://www.xvideos.com
+www.xvideos.com##.verified.icf-check-circle.icon-f
+! 2020-12-10 https://hide.me
+hide.me##.livechat__label
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##.js-livechat.u-cursorpointer.livechat__btn
+hide.me##div.js-livechatMain.livechat:nth-of-type(2)
+hide.me##.js-livechat.u-cursorpointer.livechat__bubble
+hide.me##div.js-livechatMain.livechat:nth-of-type(1)
+! 2021-01-30 https://www.3dnatives.com
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.footer_logo__2umvp > [href="/"]
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(1)
+xmovies8.pw##div.footer_footer-row__2SGm8:nth-of-type(2)
+xmovies8.pw##.footer_description__1hrLr
+xmovies8.pw##.footer_copyright__3UFkA
+xmovies8.pw##[href="/termsofservice"]
+xmovies8.pw##[href="/policies"]
+xmovies8.pw##.footer_privacy__rtB45
+xmovies8.pw##.watch_content-tags__2tI5p > ul
+! 2021-01-30 https://new123movies.be
+new123movies.be##.clear_fix > div
+new123movies.be##.clear_fix > div
+new123movies.be##a.btn-success.btn:nth-of-type(2)
+new123movies.be##a.btn-success.btn > div
+new123movies.be##a.btn-success.btn
+new123movies.be##.main-detail.main-content > .pad
+! 2021-01-30 https://www.xvideos.com
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.xv-cams-header > p
+! 2021-01-30 https://xhamster.com
+xhamster.com##[src="https://static-lvlt.xhcdn.com/xh-desktop/images/common/footer/vf4ded6a4.rta.png"]
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.watch_social-buttons__3ty5_
+xmovies8.pw##button.watch_social-icon__6hVrK.react-share__ShareButton:nth-of-type(2)
+new123movies.be##a.btn-success.btn
+new123movies.be##.main-detail.main-content > .pad
+! 2021-01-30 https://www.xvideos.com
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.player-video.xv-cams-block
+www.xvideos.com##.xv-cams-header > p
+! 2021-01-30 https://xhamster.com
+xhamster.com##[src="https://static-lvlt.xhcdn.com/xh-desktop/images/common/footer/vf4ded6a4.rta.png"]
+! 2021-01-30 https://xmovies8.pw
+xmovies8.pw##.watch_social-buttons__3ty5_
+xmovies8.pw##button.watch_social-icon__6hVrK.react-share__ShareButton:nth-of-type(2)
+
+
+||static-hw.xvideos-cdn.com/v-b5b2732f276/v3/img/flags/flat/flags-16.png$image
+||static-hw.xvideos-cdn.com/v-b5b2732f276/v3/img/flags/flat/flags-*.png
+||static-hw.xvideos-cdn.com/v-*/*/img/flags/flat/flags-*.png
+||static-hw.xvideos-cdn.com/*/*/img/flags/flat/flags-*.png
+
+||ssl-ccstatic.highwebmedia.com/images/bg-body.gif?*$image
+||ssl-ccstatic.highwebmedia.com//images/logo.svg
+
+*.spankbang.com##[href^="/category/cam/"]
+*.spankbang.com##[href^="/category/gay/"]
+*.spankbang.com##[href^="/category/fisting/"] > span > font > font
+*.spankbang.com##[href^="/category/fisting/"]
+*.spankbang.com##[href^="/category/gay/"]
+*spankbang.com##[href^="/category/fisting/"] > span > font > font
+
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/sounds/huge.mp3$xhr,domain=chaturbate.com
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/sounds/huge.mp3$domain=chaturbate.com
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/sounds/*.mp3$domain=chaturbate.com
+
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/cam_notice_background.jpg$image
+
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/cam_notice_background.jpg$image
+
+@@||ei3.t8cdn.com/videos/201711/14/141136622/original/7(m=eqw4mgaaaa)(mh=9vSWcl2vqOerBvKz).jpg$image,domain=www.tube8.com
+
+||camo.stream.highwebmedia.com/36102d491a0a0e2fba8c46fbce277ba8acb28808/687474703a2f2f696d616765736861636b2e636f6d2f612f696d673932312f393734372f4467765150772e706e67$image
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/cam_notice_background.jpg$image
+
+||static-hw.xvideos-cdn.com/v-b5b2732f276/v3/img/flags/flat/flags-16.png
+||static-hw.xvideos-cdn.com/v-*/*/*/flags/*/*.png
+||static-hw.xvideos-cdn.com/*/*/*/flags/*/*.png
+||*i*.xvideos-cdn.com/*/*/*/flags/*/*.png
+
+||ssl-ccstatic.highwebmedia.com//images/logo.svg
+
+www.trusted-browser.com
+|trusted-browser.com
+||trusted-browser.com
+||www.trusted-browser.com
+
+||ssl-ccstatic.highwebmedia.com/tsdefaultassets/cam_notice_background.jpg$image
+||camo.stream.highwebmedia.com/8799974cf7225a48bb8d2b93a176fa3cb907f985/*$image
+
+||www.3dnatives.com/wp-content/themes/3dnatives/msls_flags/de.png$image,domain=www.3dnatives.com
+||www.3dnatives.com/en/wp-includes/js/comment-reply.min.js$script,domain=www.3dnatives.com
+
+! 2021-01-30 https://putlocker-website.online
+||putlocker-website.online/wp-content/uploads/2020/12/Black.gif$image
+
+! 2021-01-30 https://yifymovies.tv
+yifymovies.tv##.doothemes_widget.widget
+yifymovies.tv##.mCSB_outside.mCSB_vertical.mCS-minimal-dark.mCustomScrollBox
+yifymovies.tv##.mCS_no_scrollbar.mCS-autoHide._mCS_1.mCustomScrollbar.scrolling.right.sidebar
+
