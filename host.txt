@@ -1,0 +1,10 @@
+10.0.0.202   pi.hole
+10.0.0.188   TOKi
+10.0.0.188   TOki
+10.0.0.188   toki
+127.0.0.1    localhost
+::1          localhost
+10.0.0.4     localhost
+fe80::20:82ff:feae:d91d localhost
+fe80::20:82ff:feae:d91d red-moto
+10.0.0.4     red-moto
