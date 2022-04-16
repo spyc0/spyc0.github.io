@@ -1,7 +1,177 @@
 #EXTM3U
 #EXTINF:REDACTED - IPTV
-#EXT-X-VERSION:3
+#EXT-X-VERSION:9
 https://link.frontlayer.com/services/hls2/fl497518/index.m3u8
+
+#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***YETİSKİN-ADULT+18***
+http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+#EXTINF:-1,Adult Premium 1
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+#EXTINF:-1,ASIA 8081
+http://59.120.43.181:8081
+#EXTINF:-1,ASIA 8082
+http://59.120.43.181:8082
+#EXTINF:-1,ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1,ASIA 8084
+http://59.120.43.181:8084
+#EXTINF:-1,ASIA 8085
+http://59.120.43.181:8085
+#EXTINF:-1,ASIA rtmp ttv10
+rtmp://149.3.141.210:1935/tv/ttv10
+#EXTINF:-1,ASIA rtmp ttv11
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1,ASIA rtmp ttv12
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1,BABES SPORTING
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,BabeStation Unleashed 1
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+#EXTINF:-1,BabeStation Unleashed 2
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,BabeStation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1,Bella Luz rtsp
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1,Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1,DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,HQ Amateurs
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+#EXTINF:-1,Hustler HD
+http://185.38.12.20:8088/hustler_hd/
+#EXTINF:-1,Jazmin Channel HD 720
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:-1,Korea m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:-1,Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Korea:韩国phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1,Korea:韩国phd499
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1,Korea:韩国phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1,Korea:韩国phd511
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1,Korea:韩国phd59
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1,Korea:韩国phd60
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1,Korea:韩国phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1,Korea:韩国phd62
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1,Korea:韩国phd63
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1,Korea:韩国phd64
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1,Korea:韩国phd769
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1,Korea:韩国phd771
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1,Korea:韩国phd772
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1,Korea:韩国phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1,Korea:韩国phd991
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1,Korea:韩国phd992
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1,Korea:韩国phd993
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#EXTINF:-1,LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Olalá
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,PASSIE XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,Playboy TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,PowerGirls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,RUS PRIVATE
+http://185.38.12.20:8088/private/
+#EXTINF:-1,Russian Night
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:-1,Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,TOP PREMIUM XXX
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1,XXX 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1,zazax xxx music 01
+http://zazax1.ru/videos/baz55.flv
+#EXTINF:-1,zazax xxx music 02
+http://zazax1.ru/videos/baz4.flv
+#EXTINF:-1,zazax xxx music 03
+http://zazax1.ru/videos/baz57.flv
+#EXTINF:-1,zazax xxx music 04
+http://zazax1.ru/videos/muz.flv
+#EXTINF:-1,zazax xxx music 05
+http://zazax1.ru/videos/baz66.flv
+#EXTINF:-1,zazax xxx music 06
+http://zazax1.ru/video/lesr.flv
+#EXTINF:-1,zazax xxx music 07
+http://zazax1.ru/videos/baz65.flv
+#EXTINF:-1,zazax xxx music 08
+http://zazax1.ru/video/nemnf.flv
+#EXTINF:-1,zazax xxx music 09
+http://zazax1.ru/videos/011.flv
+#EXTINF:-1,zazax xxx music 10
+http://zazax1.ru/videos/baz64.flv
+#EXTINF:-1,zazax xxx music 11
+http://zazax1.ru/video/muz10.flv
+#EXTINF:-1,zazax xxx music 12
+http://zazax1.ru/videos/muz1.flv
+#EXTINF:-1,zazax xxx music 13
+http://zazax1.ru/videos/muz3.flv
+#EXTINF:-1,zazax xxx music 14
+http://zazax1.ru/video/provmc.flv
+#EXTINF:-1,zazax xxx music 15
+http://zazax1.ru/video/muz3.flv
+#EXTINF:-1,zazax xxx music 16
+http://zazax1.ru/video/basstr.flv
+#EXTINF:-1,zazax xxx music 17
+http://zazax1.ru/video/barto.mp4
+#EXTINF:-1,zazax xxx music 18
+http://zazax1.ru/video/mzclip.mp4
+#EXTINF:-1,zazax xxx music 19
+http://zazax1.ru/video/masterlatex.mp4
+#EXTINF:-1,zazax xxx music 20
+http://zazax1.ru/video/Money%20Boy-Stripclub.flv
+#EXTINF:-1,zazax xxx music 21
+http://zazax1.ru/video/Linkin%20Park%20Uncensored.mp4
+#EXTINF:-1,zazax xxx music 22
+http://zazax1.ru/video/Junior%20Jack%20-%20Stupidisco.mp4
+#EXTINF:-1,zazax xxx music 23
+http://zazax1.ru/video/Flawliss%20-%20Ms.%20Apple%20Bottom.flv
+#EXTINF:-1,zazax xxx music 24
+http://zazax1.ru/video/Fig%20Dish%20-%20When%20shirts%20get%20tight.mp4
 
 https://m3u-editor.com/serve/e44afa00-bd6a-11ec-b8d9-0182a1f1c330
 
