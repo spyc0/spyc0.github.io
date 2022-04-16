@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:REDACTED - IPTV
+#EXT-X-VERSION:3
+https://link.frontlayer.com/services/hls2/fl497518/index.m3u8
+
+https://m3u-editor.com/serve/e44afa00-bd6a-11ec-b8d9-0182a1f1c330
+
+https://deerparktx.gov/526/DPTV
+
+https://player.flovp.com/live/fl497518?share=no&autostart=1&mute=0
+
+https://link.frontlayer.com/services/hls2/fl497518/index.m3u8
+
+https://player.frontlayer.com/live/fl497518?share=no&autostart=1
+
+#EXT-X-STREAM-INF:BANDWIDTH=1103240,RESOLUTION=1280x720,CODECS="avc1.4d001f,mp4a.40.2"
+https://live-h1.frontlayer.net/fl497518/live/chunks.m3u8
+
+#EXTINF:REDACTED - IPTV
+http://player.flovp.com/live/fl497518?share=no&autostart=1&mute=1
+
+#EXTINF:REDACTED - IPTV
+http://player.flovp.com/live/fl497518?share=yes&autostart=1&mute=1
+
+#EXTINF:REDACTED - IPTV
+https://link.frontlayer.com/services/hls2/fl497518/index.m3u8
+
+#EXTINF:REDACTED - IPTV
+http://player.frontlayer.com/live/fl497518?share=1&autostart=1&mute=1
+
+#EXTINF:REDACTED - IPTV
+https://live-h1.frontlayer.net/fl497518/live/chunks.m3u8
+
+#EXTINF:REDACTED - IPTV
+https://player.frontlayer.com/live/fl497518
+
+#EXTINF:REDACTED - IPTV
+http://player.frontlayer.com/live/ ?share=1&autostart=1&mute=1
+
+#EXTINF:REDACTED - IPTV
+https://my.roku.com/account/add?channel=fl497518
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1103240,RESOLUTION=1280x720,CODECS="avc1.4d001f,mp4a.40.2"
