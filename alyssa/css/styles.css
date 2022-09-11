@@ -3,8 +3,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   line-height: 20px;
-  color: #FFFFFF; <----
-  background-color: #000000;
+  color: white; <----
+  background-color: black;
   background: url(../images/spyd1.jpg) 0 0 repeat;
   background-color: black;}
   a    {color: white;}
