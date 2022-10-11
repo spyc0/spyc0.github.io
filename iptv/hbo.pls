@@ -1,0 +1,12 @@
+HBO,http://gg.gg/HaNoiIPTV-HBO_HD
+HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+HBO,http://220.134.196.147:9557/index.m3u8
+HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
+# https://raw.githubusercontent.com/wcb1969/iptv/main/HBO.txt
+# spyc0.github.io/iptv/hbo.pls
+# spyc0.github.io/iptv/hbo.txt
+# spyc0.github.io/iptv/hbo.m3u
+# spyc0.github.io/iptv/hbo.m3u8
