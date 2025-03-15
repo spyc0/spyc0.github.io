@@ -1,0 +1,176 @@
+! Feb 9, 2025 https://www.pornhub.com
+www.pornhub.com###footer
+www.pornhub.com##.cbShort
+www.pornhub.com##.footerContentWrapper
+
+! Feb 9, 2025 https://www.xvideos.com
+www.xvideos.com##.thread-node-children-nodes
+www.xvideos.com###footer
+www.xvideos.com###tabComments_bottom_page
+
+! Feb 9, 2025 https://www.pornhub.com
+www.pornhub.com##.original.cmtPrelaodContainer.js-commentReplacement.video-wrapper
+
+! Feb 9, 2025 https://www.xvideos.com
+www.xvideos.com##.part-left
+www.xvideos.com##.live_model_thumb
+
+! Feb 9, 2025 https://www.pornhub.com
+www.pornhub.com###cmtContent
+
+! Feb 9, 2025 https://chaturbate.com
+chaturbate.com##.BioContents table
+chaturbate.com##.footer-holder
+||web.static.mmcdn.com/images/bg-top-block.gif$image
+chaturbate.com##li.gender-tab:nth-of-type(5)
+chaturbate.com##li.gender-tab:nth-of-type(3)
+||static-pub.highwebmedia.com/uploads/avatar/*.jpg$image
+chaturbate.com###merch
+chaturbate.com###spy_tab > [href="/spy-on-cams/"]
+||web.static.mmcdn.com/images/logo.svg
+||web.static.mmcdn.com/images/bg-body.gif$image
+chaturbate.com##.logo-zone
+
+! Feb 9, 2025 https://www.xvideos.com
+www.xvideos.com##.thumb-inside > .thumb > [href="/tags/p:1/topless"]
+www.xvideos.com##.premium-results-line
+www.xvideos.com##.premium-results-line
+www.xvideos.com##.ntv36b9E312d0c61E1fdE0BBE9bbADfEC5f
+
+! Feb 9, 2025 https://chaturbate.com
+chaturbate.com###spy_tab
+
+! Feb 9, 2025 https://www.24xxx.porn
+www.24xxx.porn##.comment-section
+
+! Feb 9, 2025 https://www.xvideos.com
+www.xvideos.com##.part-right
+
+! Feb 9, 2025 https://chaturbate.com
+chaturbate.com##.reportAbuseLink
+chaturbate.com##.emojiChat
+chaturbate.com##span > .pureHidden > div
+chaturbate.com###VideoPanel > div:nth-of-type(3)
+chaturbate.com###VideoPanel > div:nth-of-type(3)
+chaturbate.com##.fanclubButton
+chaturbate.com##.fanclubButton > span
+chaturbate.com##.tabBar > div > .disabled
+||web.static.mmcdn.com/tsdefaultassets/cam_notice_background.jpg$image
+chaturbate.com##.theater-overlay
+chaturbate.com###TheaterModePlayer > div:nth-of-type(6)
+
+! Feb 9, 2025 https://www.pornhub.com
+www.pornhub.com###js-abContainterMain
+www.pornhub.com##.mgp_chromecast
+
+! Feb 10, 2025 https://dev.to
+dev.to###page-content-inner > .crayons-layout__comments-billboard.pb-4.js-billboard-container
+
+! Feb 10, 2025 https://www.xvideos.com
+www.xvideos.com##.p-reduced-mobile.p-noextend.p-red.p-videos.post-block > .p-glass-effect.p-icon-bg.p-gallery
+www.xvideos.com##.p-reduced-mobile.p-noextend.p-red.p-videos.post-block
+www.xvideos.com###loop > .label > .label-text
+www.xvideos.com###chromecast > .label > .label-text
+www.xvideos.com##.label > .pif-chromecast.player-icon-f
+
+! Mar 2, 2025 https://en.wikipedia.org
+en.wikipedia.org##.table-Un­known
+en.wikipedia.org##td:nth-of-type(9)
+en.wikipedia.org##td.table-yes
+en.wikipedia.org##td:nth-of-type(5)
+en.wikipedia.org##.table-free.free
+en.wikipedia.org##td.table-no
+en.wikipedia.org##.mw-footer-container
+en.wikipedia.org##table.jquery-tablesorter.sortable.wikitable:nth-of-type(7) > tbody > tr:nth-of-type(20) > td
+en.wikipedia.org##th:nth-of-type(6)
+en.wikipedia.org##table.jquery-tablesorter.sortable.wikitable:nth-of-type(7) > tbody > tr:nth-of-type(1) > td
+en.wikipedia.org##td.table-partial
+en.wikipedia.org##.table-maybe
+en.wikipedia.org##th:nth-of-type(5)
+en.wikipedia.org##tr:nth-of-type(20) > th:nth-of-type(4)
+en.wikipedia.org##th:nth-of-type(3)
+en.wikipedia.org##th:nth-of-type(4)
+en.wikipedia.org##th:nth-of-type(2)
+en.wikipedia.org###siteNotice
+||en.wikipedia.org/static/images/icons/wikipedia.png$image
+||en.wikipedia.org/static/images/icons/wikipedia.png$image
+en.wikipedia.org##.mw-logo
+en.wikipedia.org##td:nth-of-type(4)
+en.wikipedia.org##td:nth-of-type(7)
+en.wikipedia.org##th.headerSort:nth-of-type(10)
+en.wikipedia.org##.table-nonfree.nonfree
+en.wikipedia.org##.table-dropped.dropped
+en.wikipedia.org##td:nth-of-type(2)
+en.wikipedia.org##td:nth-of-type(3)
+en.wikipedia.org##p:nth-of-type(2)
+en.wikipedia.org##.vector-body-before-content
+en.wikipedia.org##.mw-editsection > [href^="/w/index.php"]
+en.wikipedia.org##.mw-editsection
+en.wikipedia.org##table.jquery-tablesorter.sortable.wikitable:nth-of-type(3) > thead > tr > th.headerSort:nth-of-type(7)
+en.wikipedia.org##td:nth-of-type(10)
+en.wikipedia.org##td:nth-of-type(6)
+en.wikipedia.org##th.headerSort:nth-of-type(9)
+en.wikipedia.org##th.headerSort:nth-of-type(8)
+en.wikipedia.org##[href^="https://www.mediawiki.org/wiki/Reading/Web/Accessibility_for_reading/Reporting/en.wikipedia.org"]
+
+! Mar 2, 2025 https://www.redtube.com
+www.redtube.com##.footer
+www.redtube.com###cookie_consent_min_wrapper
+www.redtube.com##.no22qf
+www.redtube.com##.js_mediaBookBounds.video_block_wrapper > .site_sprite.video_verified_badge
+www.redtube.com###playerDiv_190753581 > .mgp_chromecast
+
+! Mar 2, 2025 https://www.xnxx.com
+www.xnxx.com##.premium-results-line
+
+! Mar 2, 2025 https://www.xvideos.red
+www.xvideos.red##.purchase-form.premium-popup-form-v1.premium-form-layout-v1.opened.x-overlay-box.x-overlay
+www.xvideos.red###premium-popup-form
+www.xvideos.red###premium-popup-form
+www.xvideos.red##.with-scrollbar.purchase.style-left-mobile.style-left.x-dropdown.available.selectable-element > .x-dropdown-selected
+www.xvideos.red##.with-scrollbar.purchase.style-left-mobile.style-left.x-dropdown.available.selectable-element
+
+www.xvideos.red##.with-scrollbar.purchase.style-left-mobile.style-left.x-dropdown.available.selectable-element
+www.xvideos.red##.currency-switch-block
+www.xvideos.red###premium-popup-signin.multiform-nb-1-premium.multiform-nb-1.premium-form-layout-v1
+
+www.xvideos.red##.purchase-form.premium-popup-form-v1.premium-form-layout-v1.opened.x-overlay-box.x-overlay
+||profile-pics-cdn77.xvideos-cdn.com/*/videos/profiles/profthumb/*/*/*/*/profile_*_*.jpg$image
+
+! Mar 2, 2025 https://www.xvideos.com
+www.xvideos.com##.premium.tab-button.xv-slim-tab-btn
+
+! Mar 3, 2025 https://www.redtube.net
+www.redtube.net##.footer
+
+! Mar 3, 2025 https://www.xvideos.com
+www.xvideos.com###freevpnTimeLeft
+
+! Mar 3, 2025 https://www.one-tab.com
+www.one-tab.com###freevpnTimeLeft
+
+! Mar 8, 2025 https://www.docsquiffy.com
+||player.kick.com/Doc_Squiffy$subdocument
+www.docsquiffy.com##.style-1.clearfix.header--s7.penci-topbar
+||s.w.org/images/core/emoji/$image,domain=www.docsquiffy.com
+
+! Mar 14, 2025 https://www.xvideos.com
+||www.xvideos.com/android-chrome-192x192.png$image,domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/84589927/0/0$xhr,domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/*/0/0$xhr,domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/*/0/*$xhr,domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/*/*/*$xhr,domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/*$xhr,domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/*/*/*/*$xhr,domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/*$xhr,domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/84589927/0/0$domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/84589927/0/$domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/84589927/$domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/*/$domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/*/*$domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/*$domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/top/$domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/get-posts/$domain=www.xvideos.com
+||www.xvideos.com/threads/video-comments/$domain=www.xvideos.com
+||www.xvideos.com/threads/$domain=www.xvideos.com
+
