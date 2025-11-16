@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/spyc0
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://spyc0.github.io
+  * I am spyc0 (https://keybase.io/spyc0) on keybase.
+  * I have a public key ASDeYH4JxQ7-8g2WkSFhht0_mAopYufl6DDJ7NnrJxRrXwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120de607e09c50efef20d9691216186dd3f980a2962e7e5e830c9ecd9eb27146b5f0a",
+      "host": "keybase.io",
+      "kid": "0120de607e09c50efef20d9691216186dd3f980a2962e7e5e830c9ecd9eb27146b5f0a",
+      "uid": "fdd1b40a5a3a737318cafe945a883419",
+      "username": "spyc0"
+    },
+    "merkle_root": {
+      "ctime": 1763291896,
+      "hash": "ee610c27fad893e5ec7554b26ed0ff0c03b4ba5c335ad77d141650a4af106ef64d44f7d99648a8966f126d8dfdf279f8904cccd00eac374fde791c6fa6a9c5e6",
+      "hash_meta": "e3033919d02ef74c2016389f7323c042321c8efcdf7d6c039ffd43ef5b87ac58",
+      "seqno": 27234938
+    },
+    "service": {
+      "entropy": "vox9odIIose9Aq9JsMCcFRhW",
+      "hostname": "spyc0.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.3"
+  },
+  "ctime": 1763291968,
+  "expire_in": 504576000,
+  "prev": "437e8a1909cd67c8a5d1bf559dadd48fae720b2ab47809a1837f7002ce00d00b",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3mB+CcUO/vINlpEhYYbdP5gKKWLn5egwyezZ6ycUa18Kp3BheWxvYWTESpcCCcQgQ36KGQnNZ8il0b9Vna3Uj65yCyq0eAmhg39wAs4A0AvEIP17fanhCX0AaV5OF9tP73r0u8diZ2UiKUftDoqMh8tCAgHCo3NpZ8RACn7nj5Od2J9ktQawq0lKpxHsy7qfiKIa0YxpuPo2aaQ7BpHD2Zwbv6BgPOcbNl40bW8cGxssArymlgowy0WNAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINrpn/fzMCJLRuPwEi8rINCKRxXJIAjLFST/XgbF2H79o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spyc0
+
+==================================================================
